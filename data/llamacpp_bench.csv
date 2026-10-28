@@ -1,0 +1,5 @@
+gpu,quant,size_gib,params_b,test,tokens_per_s,stdev,backend
+RTX 4090,Q4_K - Medium,5.28,8.95,pp512,10863.91,189.64,"CUDA, all layers offloaded to the GPU"
+RTX 4090,Q4_K - Medium,5.28,8.95,tg128,146.81,0.06,"CUDA, all layers offloaded to the GPU"
+RTX 4090,Q8_0,8.86,8.95,pp512,11743.08,238.99,"CUDA, all layers offloaded to the GPU"
+RTX 4090,Q8_0,8.86,8.95,tg128,97.02,0.01,"CUDA, all layers offloaded to the GPU"

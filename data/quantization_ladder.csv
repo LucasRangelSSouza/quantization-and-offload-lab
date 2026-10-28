@@ -1,0 +1,5 @@
+precision,gsm8k_acc,gsm8k_n,mmlu_acc,mmlu_n,humaneval_acc,humaneval_n,json_acc,json_n,gsm8k_wall_s,mmlu_wall_s,humaneval_wall_s,json_wall_s,vllm_quantization_flag,speculative_decoding,weights_gib,kv_cache_tokens
+AWQ 4-bit,0.9467,150,0.8,200,0.9329,164,1.0,24,67.0,7.5,69.6,11.0,compressed,off,17.8,654396
+NVFP4,0.96,150,0.82,200,0.9268,164,1.0,24,92.5,5.1,91.0,12.2,modelopt_fp4,off,27.69,555128
+FP8 (online from BF16),0.96,150,0.815,200,0.9146,164,1.0,24,66.7,9.9,94.1,12.5,fp8,off,28.06,553200
+BF16,0.9533,150,0.82,200,0.9207,164,1.0,24,119.6,15.3,162.3,14.0,None,off,51.1,318042

@@ -1,0 +1,4 @@
+route,tokens_per_s,hours_for_164_coding_answers
+"27B AWQ, 8 users (3090)",224.1,0.061
+"27B AWQ, one stream (3090)",46.7,0.293
+27B BF16 AirLLM (4090 host),0.089,153.558

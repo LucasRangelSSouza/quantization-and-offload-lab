@@ -1,0 +1,8 @@
+gpu,quantization,windows,mean_acceptance_length,accepted_tps,drafted_tps,acceptance_rate
+GB10,fp8,13,2.768,54.636,219.23,0.249
+GB10,modelopt_fp4,88,3.058,58.951,200.927,0.293
+H100 NVL,fp8,24,3.73,665.674,1635.156,0.407
+L40S,fp8,16,4.01,126.436,291.059,0.434
+L40S,modelopt_fp4,16,3.794,135.684,342.219,0.396
+RTX PRO 6000,fp8,37,3.937,354.505,844.132,0.42
+RTX PRO 6000,modelopt_fp4,106,3.628,503.239,1307.007,0.385

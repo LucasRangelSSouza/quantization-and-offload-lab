@@ -1,0 +1,2153 @@
+precision,benchmark,item,ok,seconds,tokens
+AWQ 4-bit,gsm8k,0,True,5.093,211.0
+AWQ 4-bit,gsm8k,1,True,4.784,197.0
+AWQ 4-bit,gsm8k,2,True,9.542,431.0
+AWQ 4-bit,gsm8k,3,True,4.577,187.0
+AWQ 4-bit,gsm8k,4,True,10.745,492.0
+AWQ 4-bit,gsm8k,5,True,12.48,577.0
+AWQ 4-bit,gsm8k,6,True,9.439,427.0
+AWQ 4-bit,gsm8k,7,True,14.59,680.0
+AWQ 4-bit,gsm8k,8,True,13.658,633.0
+AWQ 4-bit,gsm8k,9,True,8.896,401.0
+AWQ 4-bit,gsm8k,10,True,8.77,396.0
+AWQ 4-bit,gsm8k,11,True,9.066,409.0
+AWQ 4-bit,gsm8k,12,False,25.043,1200.0
+AWQ 4-bit,gsm8k,13,True,13.433,622.0
+AWQ 4-bit,gsm8k,14,True,7.572,334.0
+AWQ 4-bit,gsm8k,15,True,13.676,634.0
+AWQ 4-bit,gsm8k,16,True,7.288,321.0
+AWQ 4-bit,gsm8k,17,True,11.293,520.0
+AWQ 4-bit,gsm8k,18,True,6.482,281.0
+AWQ 4-bit,gsm8k,19,True,11.571,534.0
+AWQ 4-bit,gsm8k,20,True,22.076,1051.0
+AWQ 4-bit,gsm8k,21,True,4.836,199.0
+AWQ 4-bit,gsm8k,22,True,5.813,248.0
+AWQ 4-bit,gsm8k,23,True,6.749,295.0
+AWQ 4-bit,gsm8k,24,True,7.699,379.0
+AWQ 4-bit,gsm8k,25,True,8.37,410.0
+AWQ 4-bit,gsm8k,26,True,13.039,645.0
+AWQ 4-bit,gsm8k,27,True,4.832,237.0
+AWQ 4-bit,gsm8k,28,True,6.321,311.0
+AWQ 4-bit,gsm8k,29,True,6.845,335.0
+AWQ 4-bit,gsm8k,30,True,8.612,421.0
+AWQ 4-bit,gsm8k,31,True,7.566,369.0
+AWQ 4-bit,gsm8k,32,True,5.476,269.0
+AWQ 4-bit,gsm8k,33,True,11.513,566.0
+AWQ 4-bit,gsm8k,34,True,7.22,353.0
+AWQ 4-bit,gsm8k,35,True,4.611,222.0
+AWQ 4-bit,gsm8k,36,True,5.538,268.0
+AWQ 4-bit,gsm8k,37,True,11.731,578.0
+AWQ 4-bit,gsm8k,38,True,8.285,410.0
+AWQ 4-bit,gsm8k,39,True,15.309,751.0
+AWQ 4-bit,gsm8k,40,True,9.007,443.0
+AWQ 4-bit,gsm8k,41,True,10.147,498.0
+AWQ 4-bit,gsm8k,42,True,4.727,230.0
+AWQ 4-bit,gsm8k,43,True,6.913,342.0
+AWQ 4-bit,gsm8k,44,True,8.714,429.0
+AWQ 4-bit,gsm8k,45,False,8.822,432.0
+AWQ 4-bit,gsm8k,46,True,8.991,441.0
+AWQ 4-bit,gsm8k,47,True,9.908,488.0
+AWQ 4-bit,gsm8k,48,True,6.366,318.0
+AWQ 4-bit,gsm8k,49,True,6.816,338.0
+AWQ 4-bit,gsm8k,50,True,6.314,315.0
+AWQ 4-bit,gsm8k,51,True,5.721,286.0
+AWQ 4-bit,gsm8k,52,True,6.584,326.0
+AWQ 4-bit,gsm8k,53,True,10.414,513.0
+AWQ 4-bit,gsm8k,54,True,7.647,377.0
+AWQ 4-bit,gsm8k,55,True,3.483,175.0
+AWQ 4-bit,gsm8k,56,True,4.509,222.0
+AWQ 4-bit,gsm8k,57,True,15.621,766.0
+AWQ 4-bit,gsm8k,58,True,7.845,382.0
+AWQ 4-bit,gsm8k,59,True,5.307,257.0
+AWQ 4-bit,gsm8k,60,True,9.72,475.0
+AWQ 4-bit,gsm8k,61,True,6.662,322.0
+AWQ 4-bit,gsm8k,62,False,24.381,1200.0
+AWQ 4-bit,gsm8k,63,True,16.731,819.0
+AWQ 4-bit,gsm8k,64,True,9.175,449.0
+AWQ 4-bit,gsm8k,65,True,6.795,332.0
+AWQ 4-bit,gsm8k,66,True,6.969,340.0
+AWQ 4-bit,gsm8k,67,True,7.483,366.0
+AWQ 4-bit,gsm8k,68,True,4.436,218.0
+AWQ 4-bit,gsm8k,69,True,6.229,303.0
+AWQ 4-bit,gsm8k,70,True,8.218,401.0
+AWQ 4-bit,gsm8k,71,True,3.863,189.0
+AWQ 4-bit,gsm8k,72,True,5.532,271.0
+AWQ 4-bit,gsm8k,73,True,7.254,357.0
+AWQ 4-bit,gsm8k,74,True,13.271,655.0
+AWQ 4-bit,gsm8k,75,True,17.264,854.0
+AWQ 4-bit,gsm8k,76,True,8.189,400.0
+AWQ 4-bit,gsm8k,77,True,5.929,292.0
+AWQ 4-bit,gsm8k,78,True,11.606,574.0
+AWQ 4-bit,gsm8k,79,True,4.705,227.0
+AWQ 4-bit,gsm8k,80,True,7.258,352.0
+AWQ 4-bit,gsm8k,81,True,5.298,257.0
+AWQ 4-bit,gsm8k,82,True,5.522,268.0
+AWQ 4-bit,gsm8k,83,True,4.272,207.0
+AWQ 4-bit,gsm8k,84,True,10.585,522.0
+AWQ 4-bit,gsm8k,85,False,9.978,492.0
+AWQ 4-bit,gsm8k,86,True,7.754,382.0
+AWQ 4-bit,gsm8k,87,True,18.78,927.0
+AWQ 4-bit,gsm8k,88,True,7.848,387.0
+AWQ 4-bit,gsm8k,89,True,9.433,463.0
+AWQ 4-bit,gsm8k,90,True,6.34,312.0
+AWQ 4-bit,gsm8k,91,True,7.152,350.0
+AWQ 4-bit,gsm8k,92,True,7.8,379.0
+AWQ 4-bit,gsm8k,93,False,21.613,1060.0
+AWQ 4-bit,gsm8k,94,True,10.547,518.0
+AWQ 4-bit,gsm8k,95,True,8.643,426.0
+AWQ 4-bit,gsm8k,96,True,6.204,305.0
+AWQ 4-bit,gsm8k,97,True,9.701,478.0
+AWQ 4-bit,gsm8k,98,True,14.012,691.0
+AWQ 4-bit,gsm8k,99,True,8.585,425.0
+AWQ 4-bit,gsm8k,100,True,11.357,563.0
+AWQ 4-bit,gsm8k,101,True,6.463,319.0
+AWQ 4-bit,gsm8k,102,True,10.277,511.0
+AWQ 4-bit,gsm8k,103,True,9.682,475.0
+AWQ 4-bit,gsm8k,104,True,8.387,411.0
+AWQ 4-bit,gsm8k,105,True,3.643,177.0
+AWQ 4-bit,gsm8k,106,True,11.822,579.0
+AWQ 4-bit,gsm8k,107,True,15.054,736.0
+AWQ 4-bit,gsm8k,108,True,10.999,542.0
+AWQ 4-bit,gsm8k,109,True,7.827,385.0
+AWQ 4-bit,gsm8k,110,True,8.116,399.0
+AWQ 4-bit,gsm8k,111,True,13.588,665.0
+AWQ 4-bit,gsm8k,112,True,4.533,226.0
+AWQ 4-bit,gsm8k,113,True,4.358,216.0
+AWQ 4-bit,gsm8k,114,True,10.575,522.0
+AWQ 4-bit,gsm8k,115,True,11.428,561.0
+AWQ 4-bit,gsm8k,116,True,10.652,521.0
+AWQ 4-bit,gsm8k,117,True,2.522,122.0
+AWQ 4-bit,gsm8k,118,True,7.321,359.0
+AWQ 4-bit,gsm8k,119,False,19.807,1068.0
+AWQ 4-bit,gsm8k,120,True,5.953,293.0
+AWQ 4-bit,gsm8k,121,True,9.7,475.0
+AWQ 4-bit,gsm8k,122,False,10.967,537.0
+AWQ 4-bit,gsm8k,123,True,7.752,378.0
+AWQ 4-bit,gsm8k,124,True,8.574,417.0
+AWQ 4-bit,gsm8k,125,True,12.449,634.0
+AWQ 4-bit,gsm8k,126,True,5.347,257.0
+AWQ 4-bit,gsm8k,127,True,4.762,230.0
+AWQ 4-bit,gsm8k,128,True,9.076,450.0
+AWQ 4-bit,gsm8k,129,True,9.787,492.0
+AWQ 4-bit,gsm8k,130,True,5.486,266.0
+AWQ 4-bit,gsm8k,131,True,4.594,223.0
+AWQ 4-bit,gsm8k,132,True,6.784,331.0
+AWQ 4-bit,gsm8k,133,True,6.546,323.0
+AWQ 4-bit,gsm8k,134,True,5.453,263.0
+AWQ 4-bit,gsm8k,135,True,6.158,306.0
+AWQ 4-bit,gsm8k,136,True,4.359,207.0
+AWQ 4-bit,gsm8k,137,True,9.873,539.0
+AWQ 4-bit,gsm8k,138,True,12.446,716.0
+AWQ 4-bit,gsm8k,139,False,19.027,1200.0
+AWQ 4-bit,gsm8k,140,True,8.084,443.0
+AWQ 4-bit,gsm8k,141,True,9.55,544.0
+AWQ 4-bit,gsm8k,142,True,11.569,687.0
+AWQ 4-bit,gsm8k,143,True,9.451,550.0
+AWQ 4-bit,gsm8k,144,True,8.471,484.0
+AWQ 4-bit,gsm8k,145,True,7.679,435.0
+AWQ 4-bit,gsm8k,146,True,9.801,578.0
+AWQ 4-bit,gsm8k,147,True,14.428,903.0
+AWQ 4-bit,gsm8k,148,True,4.624,257.0
+AWQ 4-bit,gsm8k,149,True,5.71,328.0
+AWQ 4-bit,mmlu,0,False,0.382,
+AWQ 4-bit,mmlu,1,True,0.397,
+AWQ 4-bit,mmlu,2,True,0.396,
+AWQ 4-bit,mmlu,3,True,0.948,
+AWQ 4-bit,mmlu,4,True,0.949,
+AWQ 4-bit,mmlu,5,True,0.948,
+AWQ 4-bit,mmlu,6,True,0.917,
+AWQ 4-bit,mmlu,7,True,0.917,
+AWQ 4-bit,mmlu,8,True,0.914,
+AWQ 4-bit,mmlu,9,True,0.913,
+AWQ 4-bit,mmlu,10,True,0.914,
+AWQ 4-bit,mmlu,11,True,0.915,
+AWQ 4-bit,mmlu,12,True,0.914,
+AWQ 4-bit,mmlu,13,True,0.912,
+AWQ 4-bit,mmlu,14,True,0.865,
+AWQ 4-bit,mmlu,15,True,0.91,
+AWQ 4-bit,mmlu,16,True,0.913,
+AWQ 4-bit,mmlu,17,True,0.916,
+AWQ 4-bit,mmlu,18,True,0.909,
+AWQ 4-bit,mmlu,19,True,0.912,
+AWQ 4-bit,mmlu,20,True,0.909,
+AWQ 4-bit,mmlu,21,False,0.909,
+AWQ 4-bit,mmlu,22,False,0.918,
+AWQ 4-bit,mmlu,23,False,0.912,
+AWQ 4-bit,mmlu,24,True,0.603,
+AWQ 4-bit,mmlu,25,True,0.588,
+AWQ 4-bit,mmlu,26,False,0.587,
+AWQ 4-bit,mmlu,27,True,0.114,
+AWQ 4-bit,mmlu,28,True,0.999,
+AWQ 4-bit,mmlu,29,True,0.999,
+AWQ 4-bit,mmlu,30,True,0.912,
+AWQ 4-bit,mmlu,31,True,0.998,
+AWQ 4-bit,mmlu,32,True,0.997,
+AWQ 4-bit,mmlu,33,True,0.997,
+AWQ 4-bit,mmlu,34,True,0.738,
+AWQ 4-bit,mmlu,35,False,0.997,
+AWQ 4-bit,mmlu,36,False,0.995,
+AWQ 4-bit,mmlu,37,True,0.996,
+AWQ 4-bit,mmlu,38,True,0.997,
+AWQ 4-bit,mmlu,39,True,0.736,
+AWQ 4-bit,mmlu,40,True,0.996,
+AWQ 4-bit,mmlu,41,True,0.996,
+AWQ 4-bit,mmlu,42,True,0.995,
+AWQ 4-bit,mmlu,43,True,0.994,
+AWQ 4-bit,mmlu,44,True,0.909,
+AWQ 4-bit,mmlu,45,True,0.734,
+AWQ 4-bit,mmlu,46,False,0.513,
+AWQ 4-bit,mmlu,47,True,0.729,
+AWQ 4-bit,mmlu,48,True,0.702,
+AWQ 4-bit,mmlu,49,True,0.702,
+AWQ 4-bit,mmlu,50,True,0.702,
+AWQ 4-bit,mmlu,51,True,0.844,
+AWQ 4-bit,mmlu,52,True,0.632,
+AWQ 4-bit,mmlu,53,True,0.527,
+AWQ 4-bit,mmlu,54,True,0.529,
+AWQ 4-bit,mmlu,55,True,0.528,
+AWQ 4-bit,mmlu,56,True,0.528,
+AWQ 4-bit,mmlu,57,True,0.527,
+AWQ 4-bit,mmlu,58,True,0.528,
+AWQ 4-bit,mmlu,59,False,0.526,
+AWQ 4-bit,mmlu,60,True,0.767,
+AWQ 4-bit,mmlu,61,False,0.767,
+AWQ 4-bit,mmlu,62,False,0.766,
+AWQ 4-bit,mmlu,63,False,1.298,
+AWQ 4-bit,mmlu,64,False,1.297,
+AWQ 4-bit,mmlu,65,False,1.296,
+AWQ 4-bit,mmlu,66,True,1.295,
+AWQ 4-bit,mmlu,67,True,1.098,
+AWQ 4-bit,mmlu,68,False,1.298,
+AWQ 4-bit,mmlu,69,True,1.297,
+AWQ 4-bit,mmlu,70,True,1.296,
+AWQ 4-bit,mmlu,71,True,1.293,
+AWQ 4-bit,mmlu,72,False,1.296,
+AWQ 4-bit,mmlu,73,True,1.297,
+AWQ 4-bit,mmlu,74,True,1.297,
+AWQ 4-bit,mmlu,75,True,1.297,
+AWQ 4-bit,mmlu,76,False,1.138,
+AWQ 4-bit,mmlu,77,True,1.08,
+AWQ 4-bit,mmlu,78,True,1.08,
+AWQ 4-bit,mmlu,79,False,1.077,
+AWQ 4-bit,mmlu,80,False,1.082,
+AWQ 4-bit,mmlu,81,False,1.073,
+AWQ 4-bit,mmlu,82,True,1.081,
+AWQ 4-bit,mmlu,83,True,1.074,
+AWQ 4-bit,mmlu,84,True,0.683,
+AWQ 4-bit,mmlu,85,True,0.681,
+AWQ 4-bit,mmlu,86,True,0.682,
+AWQ 4-bit,mmlu,87,True,0.277,
+AWQ 4-bit,mmlu,88,True,0.325,
+AWQ 4-bit,mmlu,89,True,0.754,
+AWQ 4-bit,mmlu,90,True,0.87,
+AWQ 4-bit,mmlu,91,True,0.867,
+AWQ 4-bit,mmlu,92,True,0.869,
+AWQ 4-bit,mmlu,93,True,0.87,
+AWQ 4-bit,mmlu,94,False,0.87,
+AWQ 4-bit,mmlu,95,True,0.917,
+AWQ 4-bit,mmlu,96,True,0.869,
+AWQ 4-bit,mmlu,97,True,0.869,
+AWQ 4-bit,mmlu,98,True,0.869,
+AWQ 4-bit,mmlu,99,True,0.912,
+AWQ 4-bit,mmlu,100,False,0.911,
+AWQ 4-bit,mmlu,101,True,0.867,
+AWQ 4-bit,mmlu,102,False,0.865,
+AWQ 4-bit,mmlu,103,False,0.905,
+AWQ 4-bit,mmlu,104,False,0.863,
+AWQ 4-bit,mmlu,105,False,0.861,
+AWQ 4-bit,mmlu,106,False,0.698,
+AWQ 4-bit,mmlu,107,True,0.86,
+AWQ 4-bit,mmlu,108,False,0.845,
+AWQ 4-bit,mmlu,109,False,0.845,
+AWQ 4-bit,mmlu,110,True,0.802,
+AWQ 4-bit,mmlu,111,True,0.833,
+AWQ 4-bit,mmlu,112,True,0.591,
+AWQ 4-bit,mmlu,113,True,0.201,
+AWQ 4-bit,mmlu,114,True,0.201,
+AWQ 4-bit,mmlu,115,False,0.315,
+AWQ 4-bit,mmlu,116,True,1.099,
+AWQ 4-bit,mmlu,117,True,1.033,
+AWQ 4-bit,mmlu,118,True,1.031,
+AWQ 4-bit,mmlu,119,True,0.243,
+AWQ 4-bit,mmlu,120,True,1.033,
+AWQ 4-bit,mmlu,121,True,1.032,
+AWQ 4-bit,mmlu,122,True,1.028,
+AWQ 4-bit,mmlu,123,True,1.029,
+AWQ 4-bit,mmlu,124,True,1.058,
+AWQ 4-bit,mmlu,125,True,1.057,
+AWQ 4-bit,mmlu,126,False,1.057,
+AWQ 4-bit,mmlu,127,True,0.848,
+AWQ 4-bit,mmlu,128,True,0.572,
+AWQ 4-bit,mmlu,129,True,0.848,
+AWQ 4-bit,mmlu,130,True,1.055,
+AWQ 4-bit,mmlu,131,True,1.062,
+AWQ 4-bit,mmlu,132,True,1.059,
+AWQ 4-bit,mmlu,133,True,1.056,
+AWQ 4-bit,mmlu,134,True,0.846,
+AWQ 4-bit,mmlu,135,True,0.566,
+AWQ 4-bit,mmlu,136,True,0.945,
+AWQ 4-bit,mmlu,137,True,0.949,
+AWQ 4-bit,mmlu,138,True,0.948,
+AWQ 4-bit,mmlu,139,False,0.855,
+AWQ 4-bit,mmlu,140,True,0.786,
+AWQ 4-bit,mmlu,141,True,0.525,
+AWQ 4-bit,mmlu,142,False,0.525,
+AWQ 4-bit,mmlu,143,True,0.263,
+AWQ 4-bit,mmlu,144,True,0.263,
+AWQ 4-bit,mmlu,145,True,0.262,
+AWQ 4-bit,mmlu,146,True,0.797,
+AWQ 4-bit,mmlu,147,True,0.216,
+AWQ 4-bit,mmlu,148,True,0.796,
+AWQ 4-bit,mmlu,149,True,0.641,
+AWQ 4-bit,mmlu,150,True,0.428,
+AWQ 4-bit,mmlu,151,True,0.639,
+AWQ 4-bit,mmlu,152,True,0.638,
+AWQ 4-bit,mmlu,153,True,0.639,
+AWQ 4-bit,mmlu,154,False,0.792,
+AWQ 4-bit,mmlu,155,False,2.231,
+AWQ 4-bit,mmlu,156,True,0.784,
+AWQ 4-bit,mmlu,157,True,0.782,
+AWQ 4-bit,mmlu,158,False,0.784,
+AWQ 4-bit,mmlu,159,False,0.783,
+AWQ 4-bit,mmlu,160,True,0.782,
+AWQ 4-bit,mmlu,161,True,0.727,
+AWQ 4-bit,mmlu,162,False,0.782,
+AWQ 4-bit,mmlu,163,True,0.779,
+AWQ 4-bit,mmlu,164,True,0.776,
+AWQ 4-bit,mmlu,165,True,0.741,
+AWQ 4-bit,mmlu,166,True,0.742,
+AWQ 4-bit,mmlu,167,True,0.727,
+AWQ 4-bit,mmlu,168,True,0.729,
+AWQ 4-bit,mmlu,169,True,0.728,
+AWQ 4-bit,mmlu,170,True,0.637,
+AWQ 4-bit,mmlu,171,True,0.479,
+AWQ 4-bit,mmlu,172,True,0.327,
+AWQ 4-bit,mmlu,173,True,0.327,
+AWQ 4-bit,mmlu,174,True,0.331,
+AWQ 4-bit,mmlu,175,True,0.334,
+AWQ 4-bit,mmlu,176,True,0.181,
+AWQ 4-bit,mmlu,177,True,0.173,
+AWQ 4-bit,mmlu,178,True,0.174,
+AWQ 4-bit,mmlu,179,True,0.186,
+AWQ 4-bit,mmlu,180,True,1.436,
+AWQ 4-bit,mmlu,181,True,1.436,
+AWQ 4-bit,mmlu,182,True,1.449,
+AWQ 4-bit,mmlu,183,False,1.43,
+AWQ 4-bit,mmlu,184,True,1.448,
+AWQ 4-bit,mmlu,185,True,1.434,
+AWQ 4-bit,mmlu,186,True,1.448,
+AWQ 4-bit,mmlu,187,True,1.433,
+AWQ 4-bit,mmlu,188,True,1.448,
+AWQ 4-bit,mmlu,189,True,1.434,
+AWQ 4-bit,mmlu,190,True,1.447,
+AWQ 4-bit,mmlu,191,True,1.434,
+AWQ 4-bit,mmlu,192,True,1.432,
+AWQ 4-bit,mmlu,193,True,1.447,
+AWQ 4-bit,mmlu,194,False,1.389,
+AWQ 4-bit,mmlu,195,True,1.332,
+AWQ 4-bit,mmlu,196,True,1.331,
+AWQ 4-bit,mmlu,197,True,1.331,
+AWQ 4-bit,mmlu,198,True,1.329,
+AWQ 4-bit,mmlu,199,True,1.327,
+AWQ 4-bit,humaneval,0,True,3.501,
+AWQ 4-bit,humaneval,1,True,5.351,
+AWQ 4-bit,humaneval,2,True,2.136,
+AWQ 4-bit,humaneval,3,True,3.17,
+AWQ 4-bit,humaneval,4,True,3.788,
+AWQ 4-bit,humaneval,5,False,3.109,
+AWQ 4-bit,humaneval,6,True,4.439,
+AWQ 4-bit,humaneval,7,True,2.401,
+AWQ 4-bit,humaneval,8,True,3.299,
+AWQ 4-bit,humaneval,9,True,3.581,
+AWQ 4-bit,humaneval,10,True,6.119,
+AWQ 4-bit,humaneval,11,True,2.35,
+AWQ 4-bit,humaneval,12,True,3.123,
+AWQ 4-bit,humaneval,13,True,1.67,
+AWQ 4-bit,humaneval,14,True,1.552,
+AWQ 4-bit,humaneval,15,True,1.762,
+AWQ 4-bit,humaneval,16,True,1.543,
+AWQ 4-bit,humaneval,17,True,4.744,
+AWQ 4-bit,humaneval,18,True,2.978,
+AWQ 4-bit,humaneval,19,True,5.147,
+AWQ 4-bit,humaneval,20,True,5.628,
+AWQ 4-bit,humaneval,21,True,3.484,
+AWQ 4-bit,humaneval,22,True,2.075,
+AWQ 4-bit,humaneval,23,True,0.977,
+AWQ 4-bit,humaneval,24,True,1.639,
+AWQ 4-bit,humaneval,25,True,3.954,
+AWQ 4-bit,humaneval,26,True,2.156,
+AWQ 4-bit,humaneval,27,True,1.041,
+AWQ 4-bit,humaneval,28,True,1.34,
+AWQ 4-bit,humaneval,29,True,2.018,
+AWQ 4-bit,humaneval,30,True,2.588,
+AWQ 4-bit,humaneval,31,True,3.551,
+AWQ 4-bit,humaneval,32,True,11.378,
+AWQ 4-bit,humaneval,33,True,4.5,
+AWQ 4-bit,humaneval,34,True,1.567,
+AWQ 4-bit,humaneval,35,True,1.831,
+AWQ 4-bit,humaneval,36,True,2.554,
+AWQ 4-bit,humaneval,37,True,4.422,
+AWQ 4-bit,humaneval,38,True,5.027,
+AWQ 4-bit,humaneval,39,True,4.524,
+AWQ 4-bit,humaneval,40,True,7.253,
+AWQ 4-bit,humaneval,41,True,2.932,
+AWQ 4-bit,humaneval,42,True,2.334,
+AWQ 4-bit,humaneval,43,True,3.531,
+AWQ 4-bit,humaneval,44,True,2.73,
+AWQ 4-bit,humaneval,45,True,1.047,
+AWQ 4-bit,humaneval,46,True,11.957,
+AWQ 4-bit,humaneval,47,True,2.74,
+AWQ 4-bit,humaneval,48,True,1.58,
+AWQ 4-bit,humaneval,49,True,2.413,
+AWQ 4-bit,humaneval,50,False,1.293,
+AWQ 4-bit,humaneval,51,True,2.995,
+AWQ 4-bit,humaneval,52,True,1.856,
+AWQ 4-bit,humaneval,53,True,1.215,
+AWQ 4-bit,humaneval,54,True,2.876,
+AWQ 4-bit,humaneval,55,True,2.038,
+AWQ 4-bit,humaneval,56,True,2.778,
+AWQ 4-bit,humaneval,57,False,3.386,
+AWQ 4-bit,humaneval,58,True,2.594,
+AWQ 4-bit,humaneval,59,True,3.726,
+AWQ 4-bit,humaneval,60,True,2.205,
+AWQ 4-bit,humaneval,61,True,2.853,
+AWQ 4-bit,humaneval,62,True,2.793,
+AWQ 4-bit,humaneval,63,True,4.992,
+AWQ 4-bit,humaneval,64,True,3.829,
+AWQ 4-bit,humaneval,65,True,10.661,
+AWQ 4-bit,humaneval,66,True,2.598,
+AWQ 4-bit,humaneval,67,False,5.41,
+AWQ 4-bit,humaneval,68,True,7.524,
+AWQ 4-bit,humaneval,69,True,3.928,
+AWQ 4-bit,humaneval,70,True,3.776,
+AWQ 4-bit,humaneval,71,True,3.855,
+AWQ 4-bit,humaneval,72,True,4.848,
+AWQ 4-bit,humaneval,73,True,3.673,
+AWQ 4-bit,humaneval,74,True,4.477,
+AWQ 4-bit,humaneval,75,True,4.759,
+AWQ 4-bit,humaneval,76,True,13.757,
+AWQ 4-bit,humaneval,77,True,7.826,
+AWQ 4-bit,humaneval,78,True,6.46,
+AWQ 4-bit,humaneval,79,True,3.53,
+AWQ 4-bit,humaneval,80,True,3.225,
+AWQ 4-bit,humaneval,81,True,9.032,
+AWQ 4-bit,humaneval,82,True,2.349,
+AWQ 4-bit,humaneval,83,True,5.374,
+AWQ 4-bit,humaneval,84,True,3.183,
+AWQ 4-bit,humaneval,85,True,1.627,
+AWQ 4-bit,humaneval,86,True,5.33,
+AWQ 4-bit,humaneval,87,True,6.806,
+AWQ 4-bit,humaneval,88,True,5.207,
+AWQ 4-bit,humaneval,89,True,3.839,
+AWQ 4-bit,humaneval,90,True,3.713,
+AWQ 4-bit,humaneval,91,True,8.293,
+AWQ 4-bit,humaneval,92,True,3.612,
+AWQ 4-bit,humaneval,93,True,9.273,
+AWQ 4-bit,humaneval,94,True,8.34,
+AWQ 4-bit,humaneval,95,True,5.025,
+AWQ 4-bit,humaneval,96,True,5.181,
+AWQ 4-bit,humaneval,97,True,2.438,
+AWQ 4-bit,humaneval,98,True,2.333,
+AWQ 4-bit,humaneval,99,True,5.437,
+AWQ 4-bit,humaneval,100,True,3.522,
+AWQ 4-bit,humaneval,101,True,2.585,
+AWQ 4-bit,humaneval,102,True,2.975,
+AWQ 4-bit,humaneval,103,True,4.967,
+AWQ 4-bit,humaneval,104,True,3.43,
+AWQ 4-bit,humaneval,105,True,8.46,
+AWQ 4-bit,humaneval,106,True,3.956,
+AWQ 4-bit,humaneval,107,True,5.756,
+AWQ 4-bit,humaneval,108,True,5.455,
+AWQ 4-bit,humaneval,109,True,7.642,
+AWQ 4-bit,humaneval,110,True,5.951,
+AWQ 4-bit,humaneval,111,True,4.623,
+AWQ 4-bit,humaneval,112,True,4.139,
+AWQ 4-bit,humaneval,113,True,7.474,
+AWQ 4-bit,humaneval,114,True,3.583,
+AWQ 4-bit,humaneval,115,True,6.98,
+AWQ 4-bit,humaneval,116,True,4.433,
+AWQ 4-bit,humaneval,117,True,4.782,
+AWQ 4-bit,humaneval,118,True,6.65,
+AWQ 4-bit,humaneval,119,True,5.066,
+AWQ 4-bit,humaneval,120,True,5.588,
+AWQ 4-bit,humaneval,121,True,2.673,
+AWQ 4-bit,humaneval,122,True,3.798,
+AWQ 4-bit,humaneval,123,True,5.769,
+AWQ 4-bit,humaneval,124,True,11.966,
+AWQ 4-bit,humaneval,125,True,5.23,
+AWQ 4-bit,humaneval,126,True,6.323,
+AWQ 4-bit,humaneval,127,False,8.123,
+AWQ 4-bit,humaneval,128,True,3.795,
+AWQ 4-bit,humaneval,129,False,20.341,
+AWQ 4-bit,humaneval,130,True,7.327,
+AWQ 4-bit,humaneval,131,True,2.538,
+AWQ 4-bit,humaneval,132,False,20.09,
+AWQ 4-bit,humaneval,133,True,3.191,
+AWQ 4-bit,humaneval,134,False,5.234,
+AWQ 4-bit,humaneval,135,True,2.601,
+AWQ 4-bit,humaneval,136,True,3.674,
+AWQ 4-bit,humaneval,137,True,3.877,
+AWQ 4-bit,humaneval,138,True,2.3,
+AWQ 4-bit,humaneval,139,True,2.948,
+AWQ 4-bit,humaneval,140,True,3.355,
+AWQ 4-bit,humaneval,141,True,7.625,
+AWQ 4-bit,humaneval,142,True,4.239,
+AWQ 4-bit,humaneval,143,True,4.962,
+AWQ 4-bit,humaneval,144,True,4.919,
+AWQ 4-bit,humaneval,145,False,4.154,
+AWQ 4-bit,humaneval,146,True,4.36,
+AWQ 4-bit,humaneval,147,False,18.651,
+AWQ 4-bit,humaneval,148,True,5.784,
+AWQ 4-bit,humaneval,149,True,4.723,
+AWQ 4-bit,humaneval,150,True,2.573,
+AWQ 4-bit,humaneval,151,True,12.508,
+AWQ 4-bit,humaneval,152,True,4.567,
+AWQ 4-bit,humaneval,153,True,6.489,
+AWQ 4-bit,humaneval,154,True,3.069,
+AWQ 4-bit,humaneval,155,True,3.24,
+AWQ 4-bit,humaneval,156,True,4.889,
+AWQ 4-bit,humaneval,157,True,3.614,
+AWQ 4-bit,humaneval,158,True,3.952,
+AWQ 4-bit,humaneval,159,True,6.605,
+AWQ 4-bit,humaneval,160,False,5.551,
+AWQ 4-bit,humaneval,161,True,3.469,
+AWQ 4-bit,humaneval,162,True,1.934,
+AWQ 4-bit,humaneval,163,True,3.231,
+AWQ 4-bit,json,0,True,9.762,
+AWQ 4-bit,json,1,True,9.927,
+AWQ 4-bit,json,2,True,11.032,
+AWQ 4-bit,json,3,True,7.07,
+AWQ 4-bit,json,4,True,8.241,
+AWQ 4-bit,json,5,True,8.222,
+AWQ 4-bit,json,6,True,8.261,
+AWQ 4-bit,json,7,True,8.26,
+AWQ 4-bit,json,8,True,8.313,
+AWQ 4-bit,json,9,True,9.878,
+AWQ 4-bit,json,10,True,9.908,
+AWQ 4-bit,json,11,True,9.729,
+AWQ 4-bit,json,12,True,8.236,
+AWQ 4-bit,json,13,True,8.253,
+AWQ 4-bit,json,14,True,8.289,
+AWQ 4-bit,json,15,True,8.323,
+AWQ 4-bit,json,16,True,9.574,
+AWQ 4-bit,json,17,True,8.356,
+AWQ 4-bit,json,18,True,9.575,
+AWQ 4-bit,json,19,True,8.355,
+AWQ 4-bit,json,20,True,8.354,
+AWQ 4-bit,json,21,True,8.32,
+AWQ 4-bit,json,22,True,8.336,
+AWQ 4-bit,json,23,True,8.354,
+NVFP4,gsm8k,0,True,6.874,223.0
+NVFP4,gsm8k,1,True,6.199,199.0
+NVFP4,gsm8k,2,True,18.631,644.0
+NVFP4,gsm8k,3,True,6.369,205.0
+NVFP4,gsm8k,4,True,9.169,307.0
+NVFP4,gsm8k,5,True,14.516,498.0
+NVFP4,gsm8k,6,True,11.812,401.0
+NVFP4,gsm8k,7,True,16.071,554.0
+NVFP4,gsm8k,8,True,20.215,701.0
+NVFP4,gsm8k,9,True,10.67,361.0
+NVFP4,gsm8k,10,True,11.81,401.0
+NVFP4,gsm8k,11,True,14.067,482.0
+NVFP4,gsm8k,12,True,30.709,1070.0
+NVFP4,gsm8k,13,True,19.792,686.0
+NVFP4,gsm8k,14,True,10.026,337.0
+NVFP4,gsm8k,15,True,12.952,442.0
+NVFP4,gsm8k,16,True,15.01,515.0
+NVFP4,gsm8k,17,True,9.885,332.0
+NVFP4,gsm8k,18,True,7.887,260.0
+NVFP4,gsm8k,19,True,15.396,530.0
+NVFP4,gsm8k,20,True,17.683,610.0
+NVFP4,gsm8k,21,True,7.995,264.0
+NVFP4,gsm8k,22,True,7.375,242.0
+NVFP4,gsm8k,23,True,7.769,256.0
+NVFP4,gsm8k,24,True,12.206,435.0
+NVFP4,gsm8k,25,True,12.121,432.0
+NVFP4,gsm8k,26,True,11.423,407.0
+NVFP4,gsm8k,27,True,7.875,280.0
+NVFP4,gsm8k,28,True,8.688,310.0
+NVFP4,gsm8k,29,True,11.166,397.0
+NVFP4,gsm8k,30,True,14.341,510.0
+NVFP4,gsm8k,31,True,11.425,405.0
+NVFP4,gsm8k,32,True,6.524,232.0
+NVFP4,gsm8k,33,True,12.069,429.0
+NVFP4,gsm8k,34,True,6.938,245.0
+NVFP4,gsm8k,35,True,6.931,244.0
+NVFP4,gsm8k,36,True,9.982,354.0
+NVFP4,gsm8k,37,True,23.453,823.0
+NVFP4,gsm8k,38,True,12.732,451.0
+NVFP4,gsm8k,39,True,19.706,694.0
+NVFP4,gsm8k,40,True,7.133,252.0
+NVFP4,gsm8k,41,True,17.496,616.0
+NVFP4,gsm8k,42,True,6.913,244.0
+NVFP4,gsm8k,43,True,14.663,515.0
+NVFP4,gsm8k,44,True,9.642,339.0
+NVFP4,gsm8k,45,True,16.152,567.0
+NVFP4,gsm8k,46,True,13.95,490.0
+NVFP4,gsm8k,47,True,17.81,627.0
+NVFP4,gsm8k,48,True,8.795,309.0
+NVFP4,gsm8k,49,True,10.504,368.0
+NVFP4,gsm8k,50,True,7.049,249.0
+NVFP4,gsm8k,51,True,7.911,280.0
+NVFP4,gsm8k,52,True,11.563,406.0
+NVFP4,gsm8k,53,True,12.096,423.0
+NVFP4,gsm8k,54,True,9.85,343.0
+NVFP4,gsm8k,55,True,4.571,161.0
+NVFP4,gsm8k,56,True,6.496,227.0
+NVFP4,gsm8k,57,True,14.501,504.0
+NVFP4,gsm8k,58,True,10.627,370.0
+NVFP4,gsm8k,59,True,5.524,191.0
+NVFP4,gsm8k,60,True,17.37,609.0
+NVFP4,gsm8k,61,True,6.706,233.0
+NVFP4,gsm8k,62,True,18.284,640.0
+NVFP4,gsm8k,63,True,9.236,321.0
+NVFP4,gsm8k,64,True,11.725,407.0
+NVFP4,gsm8k,65,True,8.934,311.0
+NVFP4,gsm8k,66,True,10.091,348.0
+NVFP4,gsm8k,67,True,11.642,405.0
+NVFP4,gsm8k,68,True,9.994,345.0
+NVFP4,gsm8k,69,True,8.505,298.0
+NVFP4,gsm8k,70,True,12.485,438.0
+NVFP4,gsm8k,71,True,8.234,287.0
+NVFP4,gsm8k,72,True,6.556,230.0
+NVFP4,gsm8k,73,True,11.905,417.0
+NVFP4,gsm8k,74,True,19.756,694.0
+NVFP4,gsm8k,75,True,15.11,532.0
+NVFP4,gsm8k,76,True,15.156,534.0
+NVFP4,gsm8k,77,True,11.907,418.0
+NVFP4,gsm8k,78,False,34.174,1200.0
+NVFP4,gsm8k,79,True,6.931,242.0
+NVFP4,gsm8k,80,True,10.146,356.0
+NVFP4,gsm8k,81,True,5.769,200.0
+NVFP4,gsm8k,82,True,7.84,274.0
+NVFP4,gsm8k,83,True,6.03,209.0
+NVFP4,gsm8k,84,True,16.743,586.0
+NVFP4,gsm8k,85,False,12.705,447.0
+NVFP4,gsm8k,86,True,11.601,408.0
+NVFP4,gsm8k,87,False,34.033,1200.0
+NVFP4,gsm8k,88,True,12.799,454.0
+NVFP4,gsm8k,89,True,17.528,618.0
+NVFP4,gsm8k,90,True,9.699,342.0
+NVFP4,gsm8k,91,True,8.29,293.0
+NVFP4,gsm8k,92,True,13.094,461.0
+NVFP4,gsm8k,93,False,17.073,599.0
+NVFP4,gsm8k,94,True,12.218,426.0
+NVFP4,gsm8k,95,True,12.05,422.0
+NVFP4,gsm8k,96,True,6.763,238.0
+NVFP4,gsm8k,97,True,12.428,435.0
+NVFP4,gsm8k,98,True,13.342,468.0
+NVFP4,gsm8k,99,True,8.419,293.0
+NVFP4,gsm8k,100,True,13.794,483.0
+NVFP4,gsm8k,101,True,8.809,307.0
+NVFP4,gsm8k,102,True,11.051,387.0
+NVFP4,gsm8k,103,True,13.55,476.0
+NVFP4,gsm8k,104,True,10.036,350.0
+NVFP4,gsm8k,105,True,6.641,230.0
+NVFP4,gsm8k,106,True,14.524,507.0
+NVFP4,gsm8k,107,True,14.564,510.0
+NVFP4,gsm8k,108,True,13.064,460.0
+NVFP4,gsm8k,109,True,10.248,359.0
+NVFP4,gsm8k,110,True,10.244,358.0
+NVFP4,gsm8k,111,True,21.147,742.0
+NVFP4,gsm8k,112,True,7.839,275.0
+NVFP4,gsm8k,113,True,5.263,182.0
+NVFP4,gsm8k,114,True,13.229,463.0
+NVFP4,gsm8k,115,True,19.515,687.0
+NVFP4,gsm8k,116,True,12.621,440.0
+NVFP4,gsm8k,117,True,4.832,169.0
+NVFP4,gsm8k,118,True,8.447,297.0
+NVFP4,gsm8k,119,False,31.845,1200.0
+NVFP4,gsm8k,120,True,6.224,220.0
+NVFP4,gsm8k,121,True,8.317,291.0
+NVFP4,gsm8k,122,True,17.355,614.0
+NVFP4,gsm8k,123,True,11.271,392.0
+NVFP4,gsm8k,124,True,11.299,393.0
+NVFP4,gsm8k,125,True,12.813,449.0
+NVFP4,gsm8k,126,True,9.162,322.0
+NVFP4,gsm8k,127,True,7.669,268.0
+NVFP4,gsm8k,128,True,13.418,470.0
+NVFP4,gsm8k,129,True,10.551,367.0
+NVFP4,gsm8k,130,True,6.221,214.0
+NVFP4,gsm8k,131,True,7.32,252.0
+NVFP4,gsm8k,132,True,8.913,308.0
+NVFP4,gsm8k,133,True,10.097,350.0
+NVFP4,gsm8k,134,True,5.326,183.0
+NVFP4,gsm8k,135,True,10.185,357.0
+NVFP4,gsm8k,136,True,7.257,252.0
+NVFP4,gsm8k,137,True,10.622,378.0
+NVFP4,gsm8k,138,False,12.507,458.0
+NVFP4,gsm8k,139,True,28.405,1179.0
+NVFP4,gsm8k,140,True,11.779,439.0
+NVFP4,gsm8k,141,True,12.833,487.0
+NVFP4,gsm8k,142,True,6.165,217.0
+NVFP4,gsm8k,143,True,10.006,370.0
+NVFP4,gsm8k,144,True,11.046,417.0
+NVFP4,gsm8k,145,True,9.868,371.0
+NVFP4,gsm8k,146,True,10.071,384.0
+NVFP4,gsm8k,147,True,18.81,747.0
+NVFP4,gsm8k,148,True,6.726,250.0
+NVFP4,gsm8k,149,True,9.174,355.0
+NVFP4,mmlu,0,True,0.46,
+NVFP4,mmlu,1,True,0.459,
+NVFP4,mmlu,2,True,0.377,
+NVFP4,mmlu,3,True,0.737,
+NVFP4,mmlu,4,True,0.735,
+NVFP4,mmlu,5,True,0.701,
+NVFP4,mmlu,6,True,0.709,
+NVFP4,mmlu,7,True,0.71,
+NVFP4,mmlu,8,True,0.707,
+NVFP4,mmlu,9,True,0.714,
+NVFP4,mmlu,10,True,0.706,
+NVFP4,mmlu,11,True,0.672,
+NVFP4,mmlu,12,True,0.706,
+NVFP4,mmlu,13,True,0.705,
+NVFP4,mmlu,14,True,0.671,
+NVFP4,mmlu,15,True,0.706,
+NVFP4,mmlu,16,True,0.71,
+NVFP4,mmlu,17,True,0.704,
+NVFP4,mmlu,18,True,0.702,
+NVFP4,mmlu,19,True,0.712,
+NVFP4,mmlu,20,True,0.703,
+NVFP4,mmlu,21,False,0.702,
+NVFP4,mmlu,22,False,0.669,
+NVFP4,mmlu,23,True,0.703,
+NVFP4,mmlu,24,False,0.36,
+NVFP4,mmlu,25,True,0.279,
+NVFP4,mmlu,26,False,0.276,
+NVFP4,mmlu,27,True,0.27,
+NVFP4,mmlu,28,True,0.247,
+NVFP4,mmlu,29,True,0.27,
+NVFP4,mmlu,30,True,0.27,
+NVFP4,mmlu,31,True,0.756,
+NVFP4,mmlu,32,True,0.757,
+NVFP4,mmlu,33,True,0.757,
+NVFP4,mmlu,34,True,0.47,
+NVFP4,mmlu,35,False,0.752,
+NVFP4,mmlu,36,False,0.698,
+NVFP4,mmlu,37,True,0.698,
+NVFP4,mmlu,38,True,0.756,
+NVFP4,mmlu,39,True,0.698,
+NVFP4,mmlu,40,True,0.755,
+NVFP4,mmlu,41,True,0.698,
+NVFP4,mmlu,42,True,0.697,
+NVFP4,mmlu,43,True,0.697,
+NVFP4,mmlu,44,True,0.694,
+NVFP4,mmlu,45,True,0.755,
+NVFP4,mmlu,46,True,0.755,
+NVFP4,mmlu,47,True,0.754,
+NVFP4,mmlu,48,True,0.582,
+NVFP4,mmlu,49,True,0.757,
+NVFP4,mmlu,50,True,0.748,
+NVFP4,mmlu,51,True,0.542,
+NVFP4,mmlu,52,True,0.52,
+NVFP4,mmlu,53,True,0.521,
+NVFP4,mmlu,54,True,0.519,
+NVFP4,mmlu,55,True,0.289,
+NVFP4,mmlu,56,True,0.19,
+NVFP4,mmlu,57,True,0.477,
+NVFP4,mmlu,58,True,0.329,
+NVFP4,mmlu,59,False,0.679,
+NVFP4,mmlu,60,True,0.39,
+NVFP4,mmlu,61,False,0.679,
+NVFP4,mmlu,62,True,0.679,
+NVFP4,mmlu,63,False,0.679,
+NVFP4,mmlu,64,False,0.891,
+NVFP4,mmlu,65,False,0.887,
+NVFP4,mmlu,66,True,0.887,
+NVFP4,mmlu,67,True,0.622,
+NVFP4,mmlu,68,False,0.886,
+NVFP4,mmlu,69,True,0.823,
+NVFP4,mmlu,70,True,0.886,
+NVFP4,mmlu,71,True,0.887,
+NVFP4,mmlu,72,False,0.886,
+NVFP4,mmlu,73,True,0.885,
+NVFP4,mmlu,74,True,0.822,
+NVFP4,mmlu,75,True,0.886,
+NVFP4,mmlu,76,False,0.824,
+NVFP4,mmlu,77,True,0.885,
+NVFP4,mmlu,78,True,0.883,
+NVFP4,mmlu,79,True,0.878,
+NVFP4,mmlu,80,False,0.804,
+NVFP4,mmlu,81,False,0.615,
+NVFP4,mmlu,82,True,0.555,
+NVFP4,mmlu,83,True,0.526,
+NVFP4,mmlu,84,True,0.324,
+NVFP4,mmlu,85,True,0.323,
+NVFP4,mmlu,86,True,0.322,
+NVFP4,mmlu,87,True,0.323,
+NVFP4,mmlu,88,True,0.323,
+NVFP4,mmlu,89,True,0.143,
+NVFP4,mmlu,90,True,0.143,
+NVFP4,mmlu,91,True,0.142,
+NVFP4,mmlu,92,True,0.142,
+NVFP4,mmlu,93,True,0.748,
+NVFP4,mmlu,94,False,0.747,
+NVFP4,mmlu,95,True,0.747,
+NVFP4,mmlu,96,True,0.747,
+NVFP4,mmlu,97,True,0.748,
+NVFP4,mmlu,98,True,0.747,
+NVFP4,mmlu,99,False,0.744,
+NVFP4,mmlu,100,True,0.748,
+NVFP4,mmlu,101,True,0.603,
+NVFP4,mmlu,102,False,0.263,
+NVFP4,mmlu,103,True,0.804,
+NVFP4,mmlu,104,False,0.803,
+NVFP4,mmlu,105,False,0.803,
+NVFP4,mmlu,106,False,0.802,
+NVFP4,mmlu,107,True,0.756,
+NVFP4,mmlu,108,False,0.745,
+NVFP4,mmlu,109,False,0.745,
+NVFP4,mmlu,110,True,0.744,
+NVFP4,mmlu,111,True,0.745,
+NVFP4,mmlu,112,True,0.745,
+NVFP4,mmlu,113,True,0.724,
+NVFP4,mmlu,114,True,0.731,
+NVFP4,mmlu,115,True,0.723,
+NVFP4,mmlu,116,True,0.734,
+NVFP4,mmlu,117,True,0.541,
+NVFP4,mmlu,118,True,0.217,
+NVFP4,mmlu,119,True,0.514,
+NVFP4,mmlu,120,True,0.512,
+NVFP4,mmlu,121,True,0.512,
+NVFP4,mmlu,122,True,0.512,
+NVFP4,mmlu,123,True,0.446,
+NVFP4,mmlu,124,False,0.511,
+NVFP4,mmlu,125,True,0.51,
+NVFP4,mmlu,126,False,0.507,
+NVFP4,mmlu,127,True,0.538,
+NVFP4,mmlu,128,True,0.537,
+NVFP4,mmlu,129,False,0.535,
+NVFP4,mmlu,130,True,0.536,
+NVFP4,mmlu,131,True,0.531,
+NVFP4,mmlu,132,True,0.532,
+NVFP4,mmlu,133,True,0.536,
+NVFP4,mmlu,134,True,0.531,
+NVFP4,mmlu,135,True,0.531,
+NVFP4,mmlu,136,True,0.536,
+NVFP4,mmlu,137,True,0.53,
+NVFP4,mmlu,138,True,0.535,
+NVFP4,mmlu,139,False,0.529,
+NVFP4,mmlu,140,True,0.527,
+NVFP4,mmlu,141,True,0.519,
+NVFP4,mmlu,142,False,0.515,
+NVFP4,mmlu,143,True,0.166,
+NVFP4,mmlu,144,True,0.277,
+NVFP4,mmlu,145,True,0.299,
+NVFP4,mmlu,146,True,0.299,
+NVFP4,mmlu,147,True,0.299,
+NVFP4,mmlu,148,True,0.299,
+NVFP4,mmlu,149,True,0.298,
+NVFP4,mmlu,150,True,0.298,
+NVFP4,mmlu,151,True,0.647,
+NVFP4,mmlu,152,True,0.644,
+NVFP4,mmlu,153,True,0.643,
+NVFP4,mmlu,154,False,0.644,
+NVFP4,mmlu,155,False,0.644,
+NVFP4,mmlu,156,True,0.643,
+NVFP4,mmlu,157,True,0.644,
+NVFP4,mmlu,158,True,0.289,
+NVFP4,mmlu,159,False,0.64,
+NVFP4,mmlu,160,True,0.576,
+NVFP4,mmlu,161,True,0.576,
+NVFP4,mmlu,162,True,0.484,
+NVFP4,mmlu,163,True,0.638,
+NVFP4,mmlu,164,True,0.575,
+NVFP4,mmlu,165,True,0.574,
+NVFP4,mmlu,166,True,0.575,
+NVFP4,mmlu,167,False,0.62,
+NVFP4,mmlu,168,True,0.453,
+NVFP4,mmlu,169,True,0.423,
+NVFP4,mmlu,170,True,0.428,
+NVFP4,mmlu,171,True,0.424,
+NVFP4,mmlu,172,True,0.428,
+NVFP4,mmlu,173,True,0.424,
+NVFP4,mmlu,174,True,0.424,
+NVFP4,mmlu,175,True,0.362,
+NVFP4,mmlu,176,True,0.175,
+NVFP4,mmlu,177,False,0.281,
+NVFP4,mmlu,178,True,0.337,
+NVFP4,mmlu,179,True,0.337,
+NVFP4,mmlu,180,True,0.337,
+NVFP4,mmlu,181,True,0.409,
+NVFP4,mmlu,182,True,0.772,
+NVFP4,mmlu,183,False,0.773,
+NVFP4,mmlu,184,True,0.772,
+NVFP4,mmlu,185,True,0.575,
+NVFP4,mmlu,186,True,0.772,
+NVFP4,mmlu,187,True,0.772,
+NVFP4,mmlu,188,True,0.772,
+NVFP4,mmlu,189,True,0.768,
+NVFP4,mmlu,190,True,0.772,
+NVFP4,mmlu,191,True,0.771,
+NVFP4,mmlu,192,True,0.771,
+NVFP4,mmlu,193,True,0.768,
+NVFP4,mmlu,194,False,0.77,
+NVFP4,mmlu,195,True,0.743,
+NVFP4,mmlu,196,True,0.74,
+NVFP4,mmlu,197,True,0.763,
+NVFP4,mmlu,198,True,0.739,
+NVFP4,mmlu,199,True,0.734,
+NVFP4,humaneval,0,True,4.725,
+NVFP4,humaneval,1,True,6.159,
+NVFP4,humaneval,2,True,2.779,
+NVFP4,humaneval,3,True,4.305,
+NVFP4,humaneval,4,True,4.747,
+NVFP4,humaneval,5,True,4.178,
+NVFP4,humaneval,6,True,5.582,
+NVFP4,humaneval,7,True,3.165,
+NVFP4,humaneval,8,True,4.456,
+NVFP4,humaneval,9,True,4.406,
+NVFP4,humaneval,10,True,8.358,
+NVFP4,humaneval,11,True,3.172,
+NVFP4,humaneval,12,True,3.418,
+NVFP4,humaneval,13,True,2.835,
+NVFP4,humaneval,14,True,2.238,
+NVFP4,humaneval,15,True,2.515,
+NVFP4,humaneval,16,True,2.256,
+NVFP4,humaneval,17,True,6.612,
+NVFP4,humaneval,18,True,4.326,
+NVFP4,humaneval,19,True,7.243,
+NVFP4,humaneval,20,True,6.875,
+NVFP4,humaneval,21,True,5.151,
+NVFP4,humaneval,22,True,3.201,
+NVFP4,humaneval,23,True,1.467,
+NVFP4,humaneval,24,True,2.439,
+NVFP4,humaneval,25,True,5.314,
+NVFP4,humaneval,26,True,3.142,
+NVFP4,humaneval,27,True,1.525,
+NVFP4,humaneval,28,True,1.89,
+NVFP4,humaneval,29,True,2.892,
+NVFP4,humaneval,30,True,3.66,
+NVFP4,humaneval,31,True,5.104,
+NVFP4,humaneval,32,True,14.759,
+NVFP4,humaneval,33,True,6.099,
+NVFP4,humaneval,34,True,2.325,
+NVFP4,humaneval,35,True,2.595,
+NVFP4,humaneval,36,True,3.755,
+NVFP4,humaneval,37,True,5.066,
+NVFP4,humaneval,38,False,3.715,
+NVFP4,humaneval,39,True,6.609,
+NVFP4,humaneval,40,True,6.458,
+NVFP4,humaneval,41,True,4.254,
+NVFP4,humaneval,42,True,3.461,
+NVFP4,humaneval,43,True,5.228,
+NVFP4,humaneval,44,True,4.05,
+NVFP4,humaneval,45,True,1.557,
+NVFP4,humaneval,46,False,8.664,
+NVFP4,humaneval,47,True,3.867,
+NVFP4,humaneval,48,True,2.315,
+NVFP4,humaneval,49,True,3.498,
+NVFP4,humaneval,50,False,1.835,
+NVFP4,humaneval,51,True,4.298,
+NVFP4,humaneval,52,True,2.629,
+NVFP4,humaneval,53,True,1.699,
+NVFP4,humaneval,54,True,4.232,
+NVFP4,humaneval,55,True,3.293,
+NVFP4,humaneval,56,True,4.092,
+NVFP4,humaneval,57,True,4.54,
+NVFP4,humaneval,58,True,3.843,
+NVFP4,humaneval,59,True,3.639,
+NVFP4,humaneval,60,True,3.461,
+NVFP4,humaneval,61,True,4.322,
+NVFP4,humaneval,62,True,4.12,
+NVFP4,humaneval,63,True,6.549,
+NVFP4,humaneval,64,True,5.303,
+NVFP4,humaneval,65,True,4.263,
+NVFP4,humaneval,66,True,0.893,
+NVFP4,humaneval,67,True,7.074,
+NVFP4,humaneval,68,True,12.194,
+NVFP4,humaneval,69,True,1.887,
+NVFP4,humaneval,70,True,4.785,
+NVFP4,humaneval,71,True,5.508,
+NVFP4,humaneval,72,True,0.864,
+NVFP4,humaneval,73,True,5.549,
+NVFP4,humaneval,74,True,1.93,
+NVFP4,humaneval,75,True,8.342,
+NVFP4,humaneval,76,True,5.958,
+NVFP4,humaneval,77,True,11.391,
+NVFP4,humaneval,78,True,9.445,
+NVFP4,humaneval,79,True,4.438,
+NVFP4,humaneval,80,True,5.045,
+NVFP4,humaneval,81,True,13.255,
+NVFP4,humaneval,82,True,3.68,
+NVFP4,humaneval,83,True,4.579,
+NVFP4,humaneval,84,False,5.273,
+NVFP4,humaneval,85,True,2.373,
+NVFP4,humaneval,86,True,5.183,
+NVFP4,humaneval,87,True,9.985,
+NVFP4,humaneval,88,True,7.684,
+NVFP4,humaneval,89,True,5.957,
+NVFP4,humaneval,90,True,4.374,
+NVFP4,humaneval,91,True,5.835,
+NVFP4,humaneval,92,True,1.647,
+NVFP4,humaneval,93,False,5.653,
+NVFP4,humaneval,94,True,3.828,
+NVFP4,humaneval,95,True,7.489,
+NVFP4,humaneval,96,True,7.706,
+NVFP4,humaneval,97,True,3.974,
+NVFP4,humaneval,98,True,3.275,
+NVFP4,humaneval,99,True,6.11,
+NVFP4,humaneval,100,True,5.09,
+NVFP4,humaneval,101,True,3.934,
+NVFP4,humaneval,102,True,4.841,
+NVFP4,humaneval,103,True,5.741,
+NVFP4,humaneval,104,True,5.102,
+NVFP4,humaneval,105,True,4.743,
+NVFP4,humaneval,106,True,6.195,
+NVFP4,humaneval,107,True,7.96,
+NVFP4,humaneval,108,False,5.936,
+NVFP4,humaneval,109,True,10.415,
+NVFP4,humaneval,110,True,7.374,
+NVFP4,humaneval,111,True,6.113,
+NVFP4,humaneval,112,True,5.313,
+NVFP4,humaneval,113,True,6.645,
+NVFP4,humaneval,114,True,3.95,
+NVFP4,humaneval,115,False,9.432,
+NVFP4,humaneval,116,False,30.401,
+NVFP4,humaneval,117,True,6.922,
+NVFP4,humaneval,118,True,12.192,
+NVFP4,humaneval,119,True,7.06,
+NVFP4,humaneval,120,True,7.152,
+NVFP4,humaneval,121,True,3.872,
+NVFP4,humaneval,122,True,5.596,
+NVFP4,humaneval,123,True,8.323,
+NVFP4,humaneval,124,True,14.576,
+NVFP4,humaneval,125,True,2.48,
+NVFP4,humaneval,126,True,9.33,
+NVFP4,humaneval,127,True,10.311,
+NVFP4,humaneval,128,True,5.59,
+NVFP4,humaneval,129,False,29.953,
+NVFP4,humaneval,130,True,17.295,
+NVFP4,humaneval,131,True,3.533,
+NVFP4,humaneval,132,False,5.474,
+NVFP4,humaneval,133,True,4.698,
+NVFP4,humaneval,134,True,12.886,
+NVFP4,humaneval,135,True,3.708,
+NVFP4,humaneval,136,True,5.355,
+NVFP4,humaneval,137,True,6.24,
+NVFP4,humaneval,138,True,4.397,
+NVFP4,humaneval,139,True,3.579,
+NVFP4,humaneval,140,False,4.495,
+NVFP4,humaneval,141,True,10.773,
+NVFP4,humaneval,142,True,6.202,
+NVFP4,humaneval,143,True,7.259,
+NVFP4,humaneval,144,True,5.667,
+NVFP4,humaneval,145,False,4.382,
+NVFP4,humaneval,146,True,2.423,
+NVFP4,humaneval,147,True,26.675,
+NVFP4,humaneval,148,True,3.312,
+NVFP4,humaneval,149,True,6.098,
+NVFP4,humaneval,150,True,4.961,
+NVFP4,humaneval,151,True,4.908,
+NVFP4,humaneval,152,True,0.884,
+NVFP4,humaneval,153,True,8.817,
+NVFP4,humaneval,154,True,4.64,
+NVFP4,humaneval,155,True,3.523,
+NVFP4,humaneval,156,True,7.117,
+NVFP4,humaneval,157,True,3.905,
+NVFP4,humaneval,158,True,5.264,
+NVFP4,humaneval,159,True,8.318,
+NVFP4,humaneval,160,True,6.624,
+NVFP4,humaneval,161,True,4.432,
+NVFP4,humaneval,162,True,2.877,
+NVFP4,humaneval,163,True,4.304,
+NVFP4,json,0,True,11.995,
+NVFP4,json,1,True,12.096,
+NVFP4,json,2,True,11.947,
+NVFP4,json,3,True,7.441,
+NVFP4,json,4,True,8.593,
+NVFP4,json,5,True,7.44,
+NVFP4,json,6,True,8.647,
+NVFP4,json,7,True,8.62,
+NVFP4,json,8,True,8.672,
+NVFP4,json,9,True,12.245,
+NVFP4,json,10,True,12.245,
+NVFP4,json,11,True,12.245,
+NVFP4,json,12,True,8.675,
+NVFP4,json,13,True,8.674,
+NVFP4,json,14,True,11.801,
+NVFP4,json,15,True,10.481,
+NVFP4,json,16,True,10.529,
+NVFP4,json,17,True,10.529,
+NVFP4,json,18,True,11.824,
+NVFP4,json,19,True,10.528,
+NVFP4,json,20,True,11.731,
+NVFP4,json,21,True,10.476,
+NVFP4,json,22,True,10.502,
+NVFP4,json,23,True,10.502,
+FP8 (online from BF16),gsm8k,0,True,6.439,185.0
+FP8 (online from BF16),gsm8k,1,True,4.357,113.0
+FP8 (online from BF16),gsm8k,2,True,16.37,517.0
+FP8 (online from BF16),gsm8k,3,True,7.094,206.0
+FP8 (online from BF16),gsm8k,4,True,9.124,276.0
+FP8 (online from BF16),gsm8k,5,True,10.616,325.0
+FP8 (online from BF16),gsm8k,6,True,6.178,178.0
+FP8 (online from BF16),gsm8k,7,True,12.886,403.0
+FP8 (online from BF16),gsm8k,8,True,16.2,512.0
+FP8 (online from BF16),gsm8k,9,True,10.391,317.0
+FP8 (online from BF16),gsm8k,10,True,10.058,306.0
+FP8 (online from BF16),gsm8k,11,True,9.981,305.0
+FP8 (online from BF16),gsm8k,12,False,31.998,1043.0
+FP8 (online from BF16),gsm8k,13,True,16.79,530.0
+FP8 (online from BF16),gsm8k,14,True,9.121,278.0
+FP8 (online from BF16),gsm8k,15,True,10.942,335.0
+FP8 (online from BF16),gsm8k,16,True,9.453,287.0
+FP8 (online from BF16),gsm8k,17,True,12.008,372.0
+FP8 (online from BF16),gsm8k,18,True,7.262,211.0
+FP8 (online from BF16),gsm8k,19,True,15.869,501.0
+FP8 (online from BF16),gsm8k,20,True,17.17,543.0
+FP8 (online from BF16),gsm8k,21,True,6.255,180.0
+FP8 (online from BF16),gsm8k,22,True,7.233,210.0
+FP8 (online from BF16),gsm8k,23,True,7.009,204.0
+FP8 (online from BF16),gsm8k,24,True,8.505,287.0
+FP8 (online from BF16),gsm8k,25,True,11.579,382.0
+FP8 (online from BF16),gsm8k,26,True,11.248,372.0
+FP8 (online from BF16),gsm8k,27,True,5.921,198.0
+FP8 (online from BF16),gsm8k,28,True,6.761,225.0
+FP8 (online from BF16),gsm8k,29,True,6.6,221.0
+FP8 (online from BF16),gsm8k,30,True,8.087,270.0
+FP8 (online from BF16),gsm8k,31,True,6.852,228.0
+FP8 (online from BF16),gsm8k,32,True,4.967,162.0
+FP8 (online from BF16),gsm8k,33,True,8.215,270.0
+FP8 (online from BF16),gsm8k,34,True,4.492,148.0
+FP8 (online from BF16),gsm8k,35,True,6.503,214.0
+FP8 (online from BF16),gsm8k,36,True,9.733,323.0
+FP8 (online from BF16),gsm8k,37,True,9.48,314.0
+FP8 (online from BF16),gsm8k,38,True,8.949,299.0
+FP8 (online from BF16),gsm8k,39,True,17.024,572.0
+FP8 (online from BF16),gsm8k,40,True,3.121,101.0
+FP8 (online from BF16),gsm8k,41,True,13.798,460.0
+FP8 (online from BF16),gsm8k,42,True,5.91,194.0
+FP8 (online from BF16),gsm8k,43,True,7.628,250.0
+FP8 (online from BF16),gsm8k,44,True,12.271,410.0
+FP8 (online from BF16),gsm8k,45,True,16.438,548.0
+FP8 (online from BF16),gsm8k,46,True,9.911,331.0
+FP8 (online from BF16),gsm8k,47,True,11.011,370.0
+FP8 (online from BF16),gsm8k,48,True,7.246,240.0
+FP8 (online from BF16),gsm8k,49,True,4.547,150.0
+FP8 (online from BF16),gsm8k,50,True,5.163,169.0
+FP8 (online from BF16),gsm8k,51,True,6.121,201.0
+FP8 (online from BF16),gsm8k,52,True,9.736,326.0
+FP8 (online from BF16),gsm8k,53,True,12.121,408.0
+FP8 (online from BF16),gsm8k,54,True,5.617,185.0
+FP8 (online from BF16),gsm8k,55,True,3.422,112.0
+FP8 (online from BF16),gsm8k,56,True,5.643,187.0
+FP8 (online from BF16),gsm8k,57,True,17.057,573.0
+FP8 (online from BF16),gsm8k,58,True,7.735,261.0
+FP8 (online from BF16),gsm8k,59,True,4.127,138.0
+FP8 (online from BF16),gsm8k,60,True,9.829,331.0
+FP8 (online from BF16),gsm8k,61,False,23.044,771.0
+FP8 (online from BF16),gsm8k,62,True,13.047,436.0
+FP8 (online from BF16),gsm8k,63,True,9.453,316.0
+FP8 (online from BF16),gsm8k,64,True,9.62,322.0
+FP8 (online from BF16),gsm8k,65,True,9.772,328.0
+FP8 (online from BF16),gsm8k,66,True,9.913,332.0
+FP8 (online from BF16),gsm8k,67,True,6.931,235.0
+FP8 (online from BF16),gsm8k,68,True,4.901,164.0
+FP8 (online from BF16),gsm8k,69,True,6.878,232.0
+FP8 (online from BF16),gsm8k,70,True,14.189,476.0
+FP8 (online from BF16),gsm8k,71,True,2.556,88.0
+FP8 (online from BF16),gsm8k,72,True,6.143,207.0
+FP8 (online from BF16),gsm8k,73,True,10.148,339.0
+FP8 (online from BF16),gsm8k,74,True,12.387,411.0
+FP8 (online from BF16),gsm8k,75,True,12.825,428.0
+FP8 (online from BF16),gsm8k,76,True,14.243,474.0
+FP8 (online from BF16),gsm8k,77,True,6.964,230.0
+FP8 (online from BF16),gsm8k,78,True,24.56,824.0
+FP8 (online from BF16),gsm8k,79,True,2.889,95.0
+FP8 (online from BF16),gsm8k,80,True,5.812,194.0
+FP8 (online from BF16),gsm8k,81,True,3.614,117.0
+FP8 (online from BF16),gsm8k,82,True,4.66,153.0
+FP8 (online from BF16),gsm8k,83,True,4.801,156.0
+FP8 (online from BF16),gsm8k,84,True,7.142,236.0
+FP8 (online from BF16),gsm8k,85,False,11.85,394.0
+FP8 (online from BF16),gsm8k,86,True,10.993,365.0
+FP8 (online from BF16),gsm8k,87,True,14.08,471.0
+FP8 (online from BF16),gsm8k,88,True,6.663,222.0
+FP8 (online from BF16),gsm8k,89,False,5.537,185.0
+FP8 (online from BF16),gsm8k,90,True,6.502,216.0
+FP8 (online from BF16),gsm8k,91,True,5.45,183.0
+FP8 (online from BF16),gsm8k,92,True,3.966,133.0
+FP8 (online from BF16),gsm8k,93,False,20.838,700.0
+FP8 (online from BF16),gsm8k,94,True,10.104,338.0
+FP8 (online from BF16),gsm8k,95,True,6.96,231.0
+FP8 (online from BF16),gsm8k,96,True,5.989,200.0
+FP8 (online from BF16),gsm8k,97,True,10.705,357.0
+FP8 (online from BF16),gsm8k,98,True,11.908,398.0
+FP8 (online from BF16),gsm8k,99,True,5.441,182.0
+FP8 (online from BF16),gsm8k,100,True,13.179,444.0
+FP8 (online from BF16),gsm8k,101,True,4.948,162.0
+FP8 (online from BF16),gsm8k,102,True,16.838,565.0
+FP8 (online from BF16),gsm8k,103,True,9.042,301.0
+FP8 (online from BF16),gsm8k,104,True,4.921,162.0
+FP8 (online from BF16),gsm8k,105,True,3.185,105.0
+FP8 (online from BF16),gsm8k,106,True,17.241,579.0
+FP8 (online from BF16),gsm8k,107,True,13.097,441.0
+FP8 (online from BF16),gsm8k,108,True,9.651,325.0
+FP8 (online from BF16),gsm8k,109,True,5.307,176.0
+FP8 (online from BF16),gsm8k,110,True,10.013,337.0
+FP8 (online from BF16),gsm8k,111,True,17.53,597.0
+FP8 (online from BF16),gsm8k,112,True,5.995,199.0
+FP8 (online from BF16),gsm8k,113,True,3.15,105.0
+FP8 (online from BF16),gsm8k,114,True,9.879,333.0
+FP8 (online from BF16),gsm8k,115,True,18.845,657.0
+FP8 (online from BF16),gsm8k,116,True,11.368,383.0
+FP8 (online from BF16),gsm8k,117,True,3.478,116.0
+FP8 (online from BF16),gsm8k,118,True,8.027,271.0
+FP8 (online from BF16),gsm8k,119,False,26.038,989.0
+FP8 (online from BF16),gsm8k,120,True,5.216,175.0
+FP8 (online from BF16),gsm8k,121,True,6.206,208.0
+FP8 (online from BF16),gsm8k,122,True,11.777,397.0
+FP8 (online from BF16),gsm8k,123,True,13.017,444.0
+FP8 (online from BF16),gsm8k,124,True,6.899,233.0
+FP8 (online from BF16),gsm8k,125,True,12.3,421.0
+FP8 (online from BF16),gsm8k,126,True,8.825,296.0
+FP8 (online from BF16),gsm8k,127,True,3.935,134.0
+FP8 (online from BF16),gsm8k,128,True,9.131,307.0
+FP8 (online from BF16),gsm8k,129,True,12.278,428.0
+FP8 (online from BF16),gsm8k,130,True,3.857,129.0
+FP8 (online from BF16),gsm8k,131,True,3.363,110.0
+FP8 (online from BF16),gsm8k,132,True,7.748,262.0
+FP8 (online from BF16),gsm8k,133,True,6.971,235.0
+FP8 (online from BF16),gsm8k,134,True,3.367,109.0
+FP8 (online from BF16),gsm8k,135,True,4.174,136.0
+FP8 (online from BF16),gsm8k,136,True,4.864,160.0
+FP8 (online from BF16),gsm8k,137,True,7.666,266.0
+FP8 (online from BF16),gsm8k,138,True,11.412,426.0
+FP8 (online from BF16),gsm8k,139,True,6.965,244.0
+FP8 (online from BF16),gsm8k,140,True,10.486,393.0
+FP8 (online from BF16),gsm8k,141,True,9.963,375.0
+FP8 (online from BF16),gsm8k,142,True,5.779,201.0
+FP8 (online from BF16),gsm8k,143,True,7.959,293.0
+FP8 (online from BF16),gsm8k,144,True,7.818,290.0
+FP8 (online from BF16),gsm8k,145,True,5.564,200.0
+FP8 (online from BF16),gsm8k,146,True,7.409,279.0
+FP8 (online from BF16),gsm8k,147,True,14.372,595.0
+FP8 (online from BF16),gsm8k,148,True,4.8,176.0
+FP8 (online from BF16),gsm8k,149,True,5.854,224.0
+FP8 (online from BF16),mmlu,0,True,0.388,
+FP8 (online from BF16),mmlu,1,True,0.41,
+FP8 (online from BF16),mmlu,2,True,0.41,
+FP8 (online from BF16),mmlu,3,True,1.389,
+FP8 (online from BF16),mmlu,4,True,1.331,
+FP8 (online from BF16),mmlu,5,True,1.388,
+FP8 (online from BF16),mmlu,6,True,1.358,
+FP8 (online from BF16),mmlu,7,True,1.299,
+FP8 (online from BF16),mmlu,8,True,1.299,
+FP8 (online from BF16),mmlu,9,True,1.354,
+FP8 (online from BF16),mmlu,10,True,1.355,
+FP8 (online from BF16),mmlu,11,True,0.884,
+FP8 (online from BF16),mmlu,12,True,1.354,
+FP8 (online from BF16),mmlu,13,True,1.351,
+FP8 (online from BF16),mmlu,14,True,1.352,
+FP8 (online from BF16),mmlu,15,True,1.351,
+FP8 (online from BF16),mmlu,16,True,1.353,
+FP8 (online from BF16),mmlu,17,True,1.353,
+FP8 (online from BF16),mmlu,18,True,1.35,
+FP8 (online from BF16),mmlu,19,True,1.351,
+FP8 (online from BF16),mmlu,20,True,1.351,
+FP8 (online from BF16),mmlu,21,False,1.295,
+FP8 (online from BF16),mmlu,22,False,1.351,
+FP8 (online from BF16),mmlu,23,False,1.35,
+FP8 (online from BF16),mmlu,24,False,0.999,
+FP8 (online from BF16),mmlu,25,True,0.986,
+FP8 (online from BF16),mmlu,26,False,0.978,
+FP8 (online from BF16),mmlu,27,True,0.573,
+FP8 (online from BF16),mmlu,28,True,0.325,
+FP8 (online from BF16),mmlu,29,True,0.324,
+FP8 (online from BF16),mmlu,30,True,0.323,
+FP8 (online from BF16),mmlu,31,True,0.324,
+FP8 (online from BF16),mmlu,32,True,1.265,
+FP8 (online from BF16),mmlu,33,True,1.262,
+FP8 (online from BF16),mmlu,34,True,1.264,
+FP8 (online from BF16),mmlu,35,True,1.261,
+FP8 (online from BF16),mmlu,36,False,1.263,
+FP8 (online from BF16),mmlu,37,True,1.261,
+FP8 (online from BF16),mmlu,38,True,1.261,
+FP8 (online from BF16),mmlu,39,True,1.256,
+FP8 (online from BF16),mmlu,40,True,1.261,
+FP8 (online from BF16),mmlu,41,True,1.261,
+FP8 (online from BF16),mmlu,42,True,1.26,
+FP8 (online from BF16),mmlu,43,True,0.646,
+FP8 (online from BF16),mmlu,44,True,1.26,
+FP8 (online from BF16),mmlu,45,True,1.261,
+FP8 (online from BF16),mmlu,46,True,1.262,
+FP8 (online from BF16),mmlu,47,True,1.258,
+FP8 (online from BF16),mmlu,48,True,1.262,
+FP8 (online from BF16),mmlu,49,True,0.645,
+FP8 (online from BF16),mmlu,50,True,1.11,
+FP8 (online from BF16),mmlu,51,True,1.159,
+FP8 (online from BF16),mmlu,52,True,1.07,
+FP8 (online from BF16),mmlu,53,True,1.07,
+FP8 (online from BF16),mmlu,54,True,1.07,
+FP8 (online from BF16),mmlu,55,True,1.069,
+FP8 (online from BF16),mmlu,56,True,0.716,
+FP8 (online from BF16),mmlu,57,True,0.715,
+FP8 (online from BF16),mmlu,58,True,0.266,
+FP8 (online from BF16),mmlu,59,False,0.359,
+FP8 (online from BF16),mmlu,60,True,1.441,
+FP8 (online from BF16),mmlu,61,False,1.44,
+FP8 (online from BF16),mmlu,62,True,1.44,
+FP8 (online from BF16),mmlu,63,False,1.625,
+FP8 (online from BF16),mmlu,64,False,1.627,
+FP8 (online from BF16),mmlu,65,False,1.436,
+FP8 (online from BF16),mmlu,66,True,1.626,
+FP8 (online from BF16),mmlu,67,True,1.624,
+FP8 (online from BF16),mmlu,68,False,1.624,
+FP8 (online from BF16),mmlu,69,True,1.624,
+FP8 (online from BF16),mmlu,70,True,1.625,
+FP8 (online from BF16),mmlu,71,True,0.33,
+FP8 (online from BF16),mmlu,72,False,1.624,
+FP8 (online from BF16),mmlu,73,True,1.693,
+FP8 (online from BF16),mmlu,74,False,1.624,
+FP8 (online from BF16),mmlu,75,True,1.624,
+FP8 (online from BF16),mmlu,76,False,1.551,
+FP8 (online from BF16),mmlu,77,True,1.711,
+FP8 (online from BF16),mmlu,78,True,1.548,
+FP8 (online from BF16),mmlu,79,True,1.617,
+FP8 (online from BF16),mmlu,80,False,1.522,
+FP8 (online from BF16),mmlu,81,False,1.523,
+FP8 (online from BF16),mmlu,82,True,1.503,
+FP8 (online from BF16),mmlu,83,True,1.363,
+FP8 (online from BF16),mmlu,84,True,1.341,
+FP8 (online from BF16),mmlu,85,True,0.376,
+FP8 (online from BF16),mmlu,86,True,0.373,
+FP8 (online from BF16),mmlu,87,True,0.373,
+FP8 (online from BF16),mmlu,88,True,0.373,
+FP8 (online from BF16),mmlu,89,True,1.335,
+FP8 (online from BF16),mmlu,90,True,1.255,
+FP8 (online from BF16),mmlu,91,True,1.256,
+FP8 (online from BF16),mmlu,92,True,1.254,
+FP8 (online from BF16),mmlu,93,True,1.253,
+FP8 (online from BF16),mmlu,94,False,1.326,
+FP8 (online from BF16),mmlu,95,True,1.255,
+FP8 (online from BF16),mmlu,96,True,1.327,
+FP8 (online from BF16),mmlu,97,True,0.366,
+FP8 (online from BF16),mmlu,98,True,0.366,
+FP8 (online from BF16),mmlu,99,False,1.326,
+FP8 (online from BF16),mmlu,100,False,1.25,
+FP8 (online from BF16),mmlu,101,True,1.252,
+FP8 (online from BF16),mmlu,102,False,1.253,
+FP8 (online from BF16),mmlu,103,True,1.325,
+FP8 (online from BF16),mmlu,104,True,1.258,
+FP8 (online from BF16),mmlu,105,True,1.256,
+FP8 (online from BF16),mmlu,106,True,0.855,
+FP8 (online from BF16),mmlu,107,True,0.855,
+FP8 (online from BF16),mmlu,108,False,1.172,
+FP8 (online from BF16),mmlu,109,False,1.139,
+FP8 (online from BF16),mmlu,110,True,1.147,
+FP8 (online from BF16),mmlu,111,True,1.138,
+FP8 (online from BF16),mmlu,112,True,1.14,
+FP8 (online from BF16),mmlu,113,True,0.968,
+FP8 (online from BF16),mmlu,114,False,0.959,
+FP8 (online from BF16),mmlu,115,True,0.649,
+FP8 (online from BF16),mmlu,116,True,1.038,
+FP8 (online from BF16),mmlu,117,True,1.059,
+FP8 (online from BF16),mmlu,118,True,1.057,
+FP8 (online from BF16),mmlu,119,True,1.054,
+FP8 (online from BF16),mmlu,120,True,1.051,
+FP8 (online from BF16),mmlu,121,True,1.053,
+FP8 (online from BF16),mmlu,122,True,1.053,
+FP8 (online from BF16),mmlu,123,True,1.052,
+FP8 (online from BF16),mmlu,124,False,1.053,
+FP8 (online from BF16),mmlu,125,False,1.032,
+FP8 (online from BF16),mmlu,126,False,1.034,
+FP8 (online from BF16),mmlu,127,True,1.033,
+FP8 (online from BF16),mmlu,128,True,1.03,
+FP8 (online from BF16),mmlu,129,False,1.033,
+FP8 (online from BF16),mmlu,130,True,1.032,
+FP8 (online from BF16),mmlu,131,True,1.031,
+FP8 (online from BF16),mmlu,132,True,1.03,
+FP8 (online from BF16),mmlu,133,True,1.033,
+FP8 (online from BF16),mmlu,134,True,1.029,
+FP8 (online from BF16),mmlu,135,True,1.024,
+FP8 (online from BF16),mmlu,136,False,1.022,
+FP8 (online from BF16),mmlu,137,True,1.023,
+FP8 (online from BF16),mmlu,138,True,1.024,
+FP8 (online from BF16),mmlu,139,False,0.812,
+FP8 (online from BF16),mmlu,140,True,0.443,
+FP8 (online from BF16),mmlu,141,True,1.011,
+FP8 (online from BF16),mmlu,142,False,1.285,
+FP8 (online from BF16),mmlu,143,True,1.285,
+FP8 (online from BF16),mmlu,144,True,1.285,
+FP8 (online from BF16),mmlu,145,True,1.285,
+FP8 (online from BF16),mmlu,146,True,1.285,
+FP8 (online from BF16),mmlu,147,True,1.285,
+FP8 (online from BF16),mmlu,148,True,1.283,
+FP8 (online from BF16),mmlu,149,True,1.302,
+FP8 (online from BF16),mmlu,150,True,1.302,
+FP8 (online from BF16),mmlu,151,True,1.299,
+FP8 (online from BF16),mmlu,152,True,1.3,
+FP8 (online from BF16),mmlu,153,True,1.302,
+FP8 (online from BF16),mmlu,154,True,1.299,
+FP8 (online from BF16),mmlu,155,False,0.959,
+FP8 (online from BF16),mmlu,156,True,1.235,
+FP8 (online from BF16),mmlu,157,True,1.234,
+FP8 (online from BF16),mmlu,158,True,1.301,
+FP8 (online from BF16),mmlu,159,False,1.299,
+FP8 (online from BF16),mmlu,160,True,0.539,
+FP8 (online from BF16),mmlu,161,True,1.299,
+FP8 (online from BF16),mmlu,162,False,1.233,
+FP8 (online from BF16),mmlu,163,True,1.208,
+FP8 (online from BF16),mmlu,164,True,1.254,
+FP8 (online from BF16),mmlu,165,True,0.808,
+FP8 (online from BF16),mmlu,166,True,0.411,
+FP8 (online from BF16),mmlu,167,False,0.41,
+FP8 (online from BF16),mmlu,168,True,1.427,
+FP8 (online from BF16),mmlu,169,True,1.427,
+FP8 (online from BF16),mmlu,170,True,1.424,
+FP8 (online from BF16),mmlu,171,True,1.425,
+FP8 (online from BF16),mmlu,172,True,0.969,
+FP8 (online from BF16),mmlu,173,True,1.427,
+FP8 (online from BF16),mmlu,174,True,1.423,
+FP8 (online from BF16),mmlu,175,True,1.424,
+FP8 (online from BF16),mmlu,176,True,1.427,
+FP8 (online from BF16),mmlu,177,True,1.42,
+FP8 (online from BF16),mmlu,178,True,1.425,
+FP8 (online from BF16),mmlu,179,True,1.421,
+FP8 (online from BF16),mmlu,180,True,1.42,
+FP8 (online from BF16),mmlu,181,True,1.419,
+FP8 (online from BF16),mmlu,182,True,1.417,
+FP8 (online from BF16),mmlu,183,False,1.419,
+FP8 (online from BF16),mmlu,184,True,1.418,
+FP8 (online from BF16),mmlu,185,True,1.419,
+FP8 (online from BF16),mmlu,186,True,1.416,
+FP8 (online from BF16),mmlu,187,True,1.415,
+FP8 (online from BF16),mmlu,188,True,1.416,
+FP8 (online from BF16),mmlu,189,True,1.371,
+FP8 (online from BF16),mmlu,190,True,1.349,
+FP8 (online from BF16),mmlu,191,True,1.348,
+FP8 (online from BF16),mmlu,192,True,0.721,
+FP8 (online from BF16),mmlu,193,True,0.574,
+FP8 (online from BF16),mmlu,194,False,0.573,
+FP8 (online from BF16),mmlu,195,True,0.592,
+FP8 (online from BF16),mmlu,196,True,0.571,
+FP8 (online from BF16),mmlu,197,True,0.571,
+FP8 (online from BF16),mmlu,198,True,0.569,
+FP8 (online from BF16),mmlu,199,True,0.569,
+FP8 (online from BF16),humaneval,0,True,5.23,
+FP8 (online from BF16),humaneval,1,True,6.7,
+FP8 (online from BF16),humaneval,2,True,3.124,
+FP8 (online from BF16),humaneval,3,True,4.734,
+FP8 (online from BF16),humaneval,4,True,4.972,
+FP8 (online from BF16),humaneval,5,True,4.58,
+FP8 (online from BF16),humaneval,6,True,6.097,
+FP8 (online from BF16),humaneval,7,True,3.55,
+FP8 (online from BF16),humaneval,8,True,4.708,
+FP8 (online from BF16),humaneval,9,True,5.252,
+FP8 (online from BF16),humaneval,10,True,8.281,
+FP8 (online from BF16),humaneval,11,True,3.472,
+FP8 (online from BF16),humaneval,12,True,3.602,
+FP8 (online from BF16),humaneval,13,True,3.018,
+FP8 (online from BF16),humaneval,14,True,2.375,
+FP8 (online from BF16),humaneval,15,True,2.642,
+FP8 (online from BF16),humaneval,16,True,2.381,
+FP8 (online from BF16),humaneval,17,True,6.915,
+FP8 (online from BF16),humaneval,18,True,4.481,
+FP8 (online from BF16),humaneval,19,True,7.623,
+FP8 (online from BF16),humaneval,20,True,9.116,
+FP8 (online from BF16),humaneval,21,True,5.319,
+FP8 (online from BF16),humaneval,22,True,3.307,
+FP8 (online from BF16),humaneval,23,True,1.499,
+FP8 (online from BF16),humaneval,24,True,2.524,
+FP8 (online from BF16),humaneval,25,True,5.881,
+FP8 (online from BF16),humaneval,26,True,3.288,
+FP8 (online from BF16),humaneval,27,True,1.588,
+FP8 (online from BF16),humaneval,28,True,2.034,
+FP8 (online from BF16),humaneval,29,True,2.959,
+FP8 (online from BF16),humaneval,30,True,3.845,
+FP8 (online from BF16),humaneval,31,True,5.319,
+FP8 (online from BF16),humaneval,32,True,21.924,
+FP8 (online from BF16),humaneval,33,True,6.144,
+FP8 (online from BF16),humaneval,34,True,2.378,
+FP8 (online from BF16),humaneval,35,True,2.722,
+FP8 (online from BF16),humaneval,36,True,3.825,
+FP8 (online from BF16),humaneval,37,True,5.369,
+FP8 (online from BF16),humaneval,38,False,3.918,
+FP8 (online from BF16),humaneval,39,True,6.895,
+FP8 (online from BF16),humaneval,40,True,6.684,
+FP8 (online from BF16),humaneval,41,True,4.466,
+FP8 (online from BF16),humaneval,42,True,3.579,
+FP8 (online from BF16),humaneval,43,True,5.413,
+FP8 (online from BF16),humaneval,44,True,4.289,
+FP8 (online from BF16),humaneval,45,True,1.673,
+FP8 (online from BF16),humaneval,46,False,9.006,
+FP8 (online from BF16),humaneval,47,True,4.747,
+FP8 (online from BF16),humaneval,48,True,2.412,
+FP8 (online from BF16),humaneval,49,True,3.712,
+FP8 (online from BF16),humaneval,50,True,3.71,
+FP8 (online from BF16),humaneval,51,True,4.547,
+FP8 (online from BF16),humaneval,52,True,2.755,
+FP8 (online from BF16),humaneval,53,True,1.787,
+FP8 (online from BF16),humaneval,54,True,4.383,
+FP8 (online from BF16),humaneval,55,True,3.453,
+FP8 (online from BF16),humaneval,56,True,4.313,
+FP8 (online from BF16),humaneval,57,True,4.546,
+FP8 (online from BF16),humaneval,58,True,3.867,
+FP8 (online from BF16),humaneval,59,True,3.719,
+FP8 (online from BF16),humaneval,60,True,3.367,
+FP8 (online from BF16),humaneval,61,True,4.374,
+FP8 (online from BF16),humaneval,62,True,4.039,
+FP8 (online from BF16),humaneval,63,True,7.177,
+FP8 (online from BF16),humaneval,64,True,5.619,
+FP8 (online from BF16),humaneval,65,True,4.585,
+FP8 (online from BF16),humaneval,66,True,3.973,
+FP8 (online from BF16),humaneval,67,True,7.348,
+FP8 (online from BF16),humaneval,68,True,12.243,
+FP8 (online from BF16),humaneval,69,True,2.043,
+FP8 (online from BF16),humaneval,70,True,5.233,
+FP8 (online from BF16),humaneval,71,True,5.706,
+FP8 (online from BF16),humaneval,72,True,0.871,
+FP8 (online from BF16),humaneval,73,True,5.677,
+FP8 (online from BF16),humaneval,74,True,1.835,
+FP8 (online from BF16),humaneval,75,True,6.577,
+FP8 (online from BF16),humaneval,76,True,7.916,
+FP8 (online from BF16),humaneval,77,True,2.065,
+FP8 (online from BF16),humaneval,78,True,9.902,
+FP8 (online from BF16),humaneval,79,True,5.163,
+FP8 (online from BF16),humaneval,80,True,4.73,
+FP8 (online from BF16),humaneval,81,True,13.919,
+FP8 (online from BF16),humaneval,82,True,3.829,
+FP8 (online from BF16),humaneval,83,True,7.101,
+FP8 (online from BF16),humaneval,84,False,5.457,
+FP8 (online from BF16),humaneval,85,True,2.455,
+FP8 (online from BF16),humaneval,86,True,5.185,
+FP8 (online from BF16),humaneval,87,True,9.29,
+FP8 (online from BF16),humaneval,88,True,7.993,
+FP8 (online from BF16),humaneval,89,True,5.342,
+FP8 (online from BF16),humaneval,90,True,4.576,
+FP8 (online from BF16),humaneval,91,True,4.572,
+FP8 (online from BF16),humaneval,92,True,5.035,
+FP8 (online from BF16),humaneval,93,False,4.834,
+FP8 (online from BF16),humaneval,94,True,3.971,
+FP8 (online from BF16),humaneval,95,True,7.893,
+FP8 (online from BF16),humaneval,96,True,8.148,
+FP8 (online from BF16),humaneval,97,True,3.774,
+FP8 (online from BF16),humaneval,98,True,3.439,
+FP8 (online from BF16),humaneval,99,True,5.984,
+FP8 (online from BF16),humaneval,100,True,5.346,
+FP8 (online from BF16),humaneval,101,False,3.78,
+FP8 (online from BF16),humaneval,102,True,4.52,
+FP8 (online from BF16),humaneval,103,True,5.963,
+FP8 (online from BF16),humaneval,104,True,4.713,
+FP8 (online from BF16),humaneval,105,True,4.654,
+FP8 (online from BF16),humaneval,106,True,6.648,
+FP8 (online from BF16),humaneval,107,True,8.412,
+FP8 (online from BF16),humaneval,108,False,6.409,
+FP8 (online from BF16),humaneval,109,True,12.918,
+FP8 (online from BF16),humaneval,110,True,7.747,
+FP8 (online from BF16),humaneval,111,True,6.915,
+FP8 (online from BF16),humaneval,112,True,1.506,
+FP8 (online from BF16),humaneval,113,True,7.06,
+FP8 (online from BF16),humaneval,114,True,4.811,
+FP8 (online from BF16),humaneval,115,False,10.13,
+FP8 (online from BF16),humaneval,116,False,31.746,
+FP8 (online from BF16),humaneval,117,True,2.976,
+FP8 (online from BF16),humaneval,118,True,7.11,
+FP8 (online from BF16),humaneval,119,True,7.502,
+FP8 (online from BF16),humaneval,120,True,7.511,
+FP8 (online from BF16),humaneval,121,True,3.652,
+FP8 (online from BF16),humaneval,122,True,5.628,
+FP8 (online from BF16),humaneval,123,True,8.476,
+FP8 (online from BF16),humaneval,124,True,14.088,
+FP8 (online from BF16),humaneval,125,True,2.61,
+FP8 (online from BF16),humaneval,126,True,9.744,
+FP8 (online from BF16),humaneval,127,False,4.56,
+FP8 (online from BF16),humaneval,128,True,5.811,
+FP8 (online from BF16),humaneval,129,False,30.542,
+FP8 (online from BF16),humaneval,130,True,23.749,
+FP8 (online from BF16),humaneval,131,True,3.661,
+FP8 (online from BF16),humaneval,132,False,5.794,
+FP8 (online from BF16),humaneval,133,True,4.909,
+FP8 (online from BF16),humaneval,134,True,6.004,
+FP8 (online from BF16),humaneval,135,True,4.25,
+FP8 (online from BF16),humaneval,136,True,2.15,
+FP8 (online from BF16),humaneval,137,True,6.194,
+FP8 (online from BF16),humaneval,138,True,2.751,
+FP8 (online from BF16),humaneval,139,True,5.013,
+FP8 (online from BF16),humaneval,140,False,4.809,
+FP8 (online from BF16),humaneval,141,True,10.126,
+FP8 (online from BF16),humaneval,142,True,6.47,
+FP8 (online from BF16),humaneval,143,True,3.405,
+FP8 (online from BF16),humaneval,144,True,5.836,
+FP8 (online from BF16),humaneval,145,False,4.538,
+FP8 (online from BF16),humaneval,146,True,2.59,
+FP8 (online from BF16),humaneval,147,False,28.607,
+FP8 (online from BF16),humaneval,148,True,3.566,
+FP8 (online from BF16),humaneval,149,True,6.876,
+FP8 (online from BF16),humaneval,150,True,5.048,
+FP8 (online from BF16),humaneval,151,True,5.063,
+FP8 (online from BF16),humaneval,152,True,6.86,
+FP8 (online from BF16),humaneval,153,True,9.502,
+FP8 (online from BF16),humaneval,154,True,4.852,
+FP8 (online from BF16),humaneval,155,True,3.585,
+FP8 (online from BF16),humaneval,156,True,7.366,
+FP8 (online from BF16),humaneval,157,True,4.073,
+FP8 (online from BF16),humaneval,158,True,4.315,
+FP8 (online from BF16),humaneval,159,True,8.481,
+FP8 (online from BF16),humaneval,160,True,6.94,
+FP8 (online from BF16),humaneval,161,True,4.345,
+FP8 (online from BF16),humaneval,162,True,3.117,
+FP8 (online from BF16),humaneval,163,True,4.273,
+FP8 (online from BF16),json,0,True,12.167,
+FP8 (online from BF16),json,1,True,12.237,
+FP8 (online from BF16),json,2,True,12.328,
+FP8 (online from BF16),json,3,True,8.749,
+FP8 (online from BF16),json,4,True,8.748,
+FP8 (online from BF16),json,5,True,8.8,
+FP8 (online from BF16),json,6,True,10.738,
+FP8 (online from BF16),json,7,True,8.852,
+FP8 (online from BF16),json,8,True,8.878,
+FP8 (online from BF16),json,9,True,12.484,
+FP8 (online from BF16),json,10,True,12.461,
+FP8 (online from BF16),json,11,True,12.438,
+FP8 (online from BF16),json,12,True,10.66,
+FP8 (online from BF16),json,13,True,8.875,
+FP8 (online from BF16),json,14,True,11.967,
+FP8 (online from BF16),json,15,True,10.658,
+FP8 (online from BF16),json,16,True,11.989,
+FP8 (online from BF16),json,17,True,11.989,
+FP8 (online from BF16),json,18,True,8.74,
+FP8 (online from BF16),json,19,True,12.154,
+FP8 (online from BF16),json,20,True,11.965,
+FP8 (online from BF16),json,21,True,10.656,
+FP8 (online from BF16),json,22,True,7.454,
+FP8 (online from BF16),json,23,True,10.678,
+BF16,gsm8k,0,True,10.837,194.0
+BF16,gsm8k,1,True,9.013,157.0
+BF16,gsm8k,2,True,18.35,348.0
+BF16,gsm8k,3,True,11.45,206.0
+BF16,gsm8k,4,True,14.313,266.0
+BF16,gsm8k,5,True,17.711,336.0
+BF16,gsm8k,6,True,9.98,178.0
+BF16,gsm8k,7,True,20.832,399.0
+BF16,gsm8k,8,True,39.584,783.0
+BF16,gsm8k,9,True,16.841,318.0
+BF16,gsm8k,10,True,16.143,305.0
+BF16,gsm8k,11,True,16.355,308.0
+BF16,gsm8k,12,False,32.917,647.0
+BF16,gsm8k,13,True,25.756,500.0
+BF16,gsm8k,14,True,10.617,190.0
+BF16,gsm8k,15,True,17.843,338.0
+BF16,gsm8k,16,True,16.141,305.0
+BF16,gsm8k,17,True,18.64,353.0
+BF16,gsm8k,18,True,11.698,211.0
+BF16,gsm8k,19,True,28.166,548.0
+BF16,gsm8k,20,True,20.869,400.0
+BF16,gsm8k,21,True,10.199,182.0
+BF16,gsm8k,22,True,11.697,211.0
+BF16,gsm8k,23,True,10.872,195.0
+BF16,gsm8k,24,True,15.791,321.0
+BF16,gsm8k,25,True,18.98,384.0
+BF16,gsm8k,26,True,17.036,345.0
+BF16,gsm8k,27,True,9.77,198.0
+BF16,gsm8k,28,True,11.246,227.0
+BF16,gsm8k,29,True,10.887,220.0
+BF16,gsm8k,30,True,13.002,265.0
+BF16,gsm8k,31,True,16.024,326.0
+BF16,gsm8k,32,True,8.053,164.0
+BF16,gsm8k,33,True,12.759,258.0
+BF16,gsm8k,34,True,7.465,148.0
+BF16,gsm8k,35,True,10.376,209.0
+BF16,gsm8k,36,True,15.835,323.0
+BF16,gsm8k,37,True,16.382,331.0
+BF16,gsm8k,38,True,13.627,277.0
+BF16,gsm8k,39,True,26.984,552.0
+BF16,gsm8k,40,True,5.049,101.0
+BF16,gsm8k,41,True,20.311,415.0
+BF16,gsm8k,42,True,6.724,136.0
+BF16,gsm8k,43,True,12.574,255.0
+BF16,gsm8k,44,True,19.582,399.0
+BF16,gsm8k,45,True,23.696,485.0
+BF16,gsm8k,46,True,17.357,355.0
+BF16,gsm8k,47,True,15.793,323.0
+BF16,gsm8k,48,True,11.299,229.0
+BF16,gsm8k,49,True,11.211,227.0
+BF16,gsm8k,50,True,8.336,169.0
+BF16,gsm8k,51,False,16.746,342.0
+BF16,gsm8k,52,True,16.191,330.0
+BF16,gsm8k,53,True,18.554,378.0
+BF16,gsm8k,54,True,11.182,227.0
+BF16,gsm8k,55,True,5.442,111.0
+BF16,gsm8k,56,True,9.168,187.0
+BF16,gsm8k,57,True,23.424,480.0
+BF16,gsm8k,58,True,16.705,343.0
+BF16,gsm8k,59,True,8.108,166.0
+BF16,gsm8k,60,True,23.562,482.0
+BF16,gsm8k,61,False,35.144,717.0
+BF16,gsm8k,62,True,35.093,716.0
+BF16,gsm8k,63,True,16.548,337.0
+BF16,gsm8k,64,True,15.788,322.0
+BF16,gsm8k,65,True,9.998,204.0
+BF16,gsm8k,66,True,13.821,283.0
+BF16,gsm8k,67,True,11.66,239.0
+BF16,gsm8k,68,True,9.052,186.0
+BF16,gsm8k,69,True,10.683,217.0
+BF16,gsm8k,70,True,22.593,461.0
+BF16,gsm8k,71,True,4.414,88.0
+BF16,gsm8k,72,True,9.843,199.0
+BF16,gsm8k,73,True,15.764,323.0
+BF16,gsm8k,74,True,19.986,408.0
+BF16,gsm8k,75,True,20.682,422.0
+BF16,gsm8k,76,True,22.323,457.0
+BF16,gsm8k,77,True,17.432,356.0
+BF16,gsm8k,78,True,27.534,563.0
+BF16,gsm8k,79,True,4.654,94.0
+BF16,gsm8k,80,True,9.428,192.0
+BF16,gsm8k,81,True,6.672,135.0
+BF16,gsm8k,82,True,7.557,153.0
+BF16,gsm8k,83,True,7.603,154.0
+BF16,gsm8k,84,True,12.981,264.0
+BF16,gsm8k,85,False,12.413,256.0
+BF16,gsm8k,86,True,17.876,363.0
+BF16,gsm8k,87,True,34.723,713.0
+BF16,gsm8k,88,True,10.444,216.0
+BF16,gsm8k,89,False,56.347,1200.0
+BF16,gsm8k,90,True,10.549,216.0
+BF16,gsm8k,91,True,8.877,183.0
+BF16,gsm8k,92,True,6.466,133.0
+BF16,gsm8k,93,False,55.918,1200.0
+BF16,gsm8k,94,True,14.423,293.0
+BF16,gsm8k,95,True,11.44,231.0
+BF16,gsm8k,96,True,9.859,200.0
+BF16,gsm8k,97,True,10.479,212.0
+BF16,gsm8k,98,True,18.364,372.0
+BF16,gsm8k,99,True,14.978,304.0
+BF16,gsm8k,100,True,22.057,452.0
+BF16,gsm8k,101,True,9.425,188.0
+BF16,gsm8k,102,True,15.46,312.0
+BF16,gsm8k,103,True,14.702,299.0
+BF16,gsm8k,104,True,8.12,163.0
+BF16,gsm8k,105,True,5.255,105.0
+BF16,gsm8k,106,True,27.324,561.0
+BF16,gsm8k,107,True,24.361,500.0
+BF16,gsm8k,108,True,15.829,325.0
+BF16,gsm8k,109,True,12.295,252.0
+BF16,gsm8k,110,True,14.805,304.0
+BF16,gsm8k,111,True,21.185,434.0
+BF16,gsm8k,112,True,9.779,199.0
+BF16,gsm8k,113,True,5.198,105.0
+BF16,gsm8k,114,True,16.21,334.0
+BF16,gsm8k,115,True,26.328,544.0
+BF16,gsm8k,116,True,16.556,340.0
+BF16,gsm8k,117,True,5.318,109.0
+BF16,gsm8k,118,True,13.264,273.0
+BF16,gsm8k,119,False,52.27,1200.0
+BF16,gsm8k,120,True,29.187,618.0
+BF16,gsm8k,121,True,12.051,248.0
+BF16,gsm8k,122,True,17.882,366.0
+BF16,gsm8k,123,True,21.743,450.0
+BF16,gsm8k,124,True,7.843,162.0
+BF16,gsm8k,125,True,14.27,292.0
+BF16,gsm8k,126,True,12.53,257.0
+BF16,gsm8k,127,True,6.447,134.0
+BF16,gsm8k,128,True,14.922,305.0
+BF16,gsm8k,129,True,20.464,428.0
+BF16,gsm8k,130,True,6.375,129.0
+BF16,gsm8k,131,True,5.291,105.0
+BF16,gsm8k,132,True,12.793,262.0
+BF16,gsm8k,133,True,9.252,185.0
+BF16,gsm8k,134,True,10.76,218.0
+BF16,gsm8k,135,True,6.78,137.0
+BF16,gsm8k,136,True,7.996,160.0
+BF16,gsm8k,137,True,12.736,266.0
+BF16,gsm8k,138,True,19.322,426.0
+BF16,gsm8k,139,True,11.551,242.0
+BF16,gsm8k,140,True,17.57,387.0
+BF16,gsm8k,141,True,17.041,375.0
+BF16,gsm8k,142,True,8.94,187.0
+BF16,gsm8k,143,True,18.326,413.0
+BF16,gsm8k,144,True,13.17,290.0
+BF16,gsm8k,145,True,7.366,156.0
+BF16,gsm8k,146,True,12.511,279.0
+BF16,gsm8k,147,True,23.49,547.0
+BF16,gsm8k,148,True,7.952,175.0
+BF16,gsm8k,149,True,9.92,224.0
+BF16,mmlu,0,True,0.423,
+BF16,mmlu,1,True,1.075,
+BF16,mmlu,2,True,1.896,
+BF16,mmlu,3,True,1.994,
+BF16,mmlu,4,True,1.994,
+BF16,mmlu,5,True,1.991,
+BF16,mmlu,6,True,1.965,
+BF16,mmlu,7,True,1.964,
+BF16,mmlu,8,True,1.963,
+BF16,mmlu,9,True,1.962,
+BF16,mmlu,10,True,1.962,
+BF16,mmlu,11,True,1.963,
+BF16,mmlu,12,True,1.962,
+BF16,mmlu,13,True,1.958,
+BF16,mmlu,14,True,1.961,
+BF16,mmlu,15,True,1.959,
+BF16,mmlu,16,True,1.96,
+BF16,mmlu,17,True,1.96,
+BF16,mmlu,18,True,1.959,
+BF16,mmlu,19,True,1.96,
+BF16,mmlu,20,True,1.958,
+BF16,mmlu,21,False,1.958,
+BF16,mmlu,22,False,1.956,
+BF16,mmlu,23,False,1.959,
+BF16,mmlu,24,False,1.58,
+BF16,mmlu,25,True,1.035,
+BF16,mmlu,26,False,0.25,
+BF16,mmlu,27,True,2.005,
+BF16,mmlu,28,True,2.003,
+BF16,mmlu,29,True,2.009,
+BF16,mmlu,30,True,2.004,
+BF16,mmlu,31,True,2.004,
+BF16,mmlu,32,True,2.004,
+BF16,mmlu,33,True,2.004,
+BF16,mmlu,34,True,1.998,
+BF16,mmlu,35,True,1.91,
+BF16,mmlu,36,False,2.0,
+BF16,mmlu,37,True,2.002,
+BF16,mmlu,38,True,2.0,
+BF16,mmlu,39,True,2.001,
+BF16,mmlu,40,True,1.084,
+BF16,mmlu,41,True,2.001,
+BF16,mmlu,42,True,2.001,
+BF16,mmlu,43,True,2.0,
+BF16,mmlu,44,True,1.908,
+BF16,mmlu,45,True,2.002,
+BF16,mmlu,46,True,1.909,
+BF16,mmlu,47,True,2.001,
+BF16,mmlu,48,True,1.995,
+BF16,mmlu,49,True,1.883,
+BF16,mmlu,50,True,1.851,
+BF16,mmlu,51,True,1.146,
+BF16,mmlu,52,True,0.535,
+BF16,mmlu,53,True,0.535,
+BF16,mmlu,54,True,0.534,
+BF16,mmlu,55,True,2.134,
+BF16,mmlu,56,True,2.374,
+BF16,mmlu,57,True,2.371,
+BF16,mmlu,58,True,2.368,
+BF16,mmlu,59,False,2.37,
+BF16,mmlu,60,True,2.368,
+BF16,mmlu,61,False,2.368,
+BF16,mmlu,62,True,2.37,
+BF16,mmlu,63,False,2.368,
+BF16,mmlu,64,False,2.368,
+BF16,mmlu,65,False,2.127,
+BF16,mmlu,66,True,2.126,
+BF16,mmlu,67,True,2.367,
+BF16,mmlu,68,False,2.367,
+BF16,mmlu,69,True,2.365,
+BF16,mmlu,70,True,2.128,
+BF16,mmlu,71,True,2.366,
+BF16,mmlu,72,False,2.366,
+BF16,mmlu,73,True,2.128,
+BF16,mmlu,74,False,2.365,
+BF16,mmlu,75,True,2.141,
+BF16,mmlu,76,False,2.098,
+BF16,mmlu,77,True,2.319,
+BF16,mmlu,78,True,2.098,
+BF16,mmlu,79,True,1.126,
+BF16,mmlu,80,False,1.126,
+BF16,mmlu,81,False,1.125,
+BF16,mmlu,82,True,1.125,
+BF16,mmlu,83,True,1.125,
+BF16,mmlu,84,True,1.838,
+BF16,mmlu,85,True,1.838,
+BF16,mmlu,86,True,1.839,
+BF16,mmlu,87,True,1.839,
+BF16,mmlu,88,True,1.84,
+BF16,mmlu,89,True,1.838,
+BF16,mmlu,90,True,1.84,
+BF16,mmlu,91,True,1.84,
+BF16,mmlu,92,True,1.839,
+BF16,mmlu,93,True,1.838,
+BF16,mmlu,94,False,1.834,
+BF16,mmlu,95,True,1.839,
+BF16,mmlu,96,True,1.839,
+BF16,mmlu,97,True,1.838,
+BF16,mmlu,98,True,1.834,
+BF16,mmlu,99,False,1.835,
+BF16,mmlu,100,False,1.666,
+BF16,mmlu,101,True,1.665,
+BF16,mmlu,102,False,1.607,
+BF16,mmlu,103,True,1.236,
+BF16,mmlu,104,True,1.231,
+BF16,mmlu,105,False,1.232,
+BF16,mmlu,106,True,1.233,
+BF16,mmlu,107,True,1.234,
+BF16,mmlu,108,False,1.911,
+BF16,mmlu,109,False,2.011,
+BF16,mmlu,110,True,1.907,
+BF16,mmlu,111,True,1.908,
+BF16,mmlu,112,True,1.908,
+BF16,mmlu,113,True,2.008,
+BF16,mmlu,114,False,1.907,
+BF16,mmlu,115,True,2.01,
+BF16,mmlu,116,True,2.01,
+BF16,mmlu,117,True,2.007,
+BF16,mmlu,118,True,2.006,
+BF16,mmlu,119,True,2.007,
+BF16,mmlu,120,True,1.324,
+BF16,mmlu,121,True,2.009,
+BF16,mmlu,122,True,1.901,
+BF16,mmlu,123,True,1.324,
+BF16,mmlu,124,False,2.006,
+BF16,mmlu,125,True,2.007,
+BF16,mmlu,126,False,1.846,
+BF16,mmlu,127,True,1.731,
+BF16,mmlu,128,True,1.73,
+BF16,mmlu,129,False,1.726,
+BF16,mmlu,130,True,1.726,
+BF16,mmlu,131,True,1.726,
+BF16,mmlu,132,True,1.298,
+BF16,mmlu,133,True,1.298,
+BF16,mmlu,134,True,1.242,
+BF16,mmlu,135,True,1.241,
+BF16,mmlu,136,True,1.237,
+BF16,mmlu,137,True,1.237,
+BF16,mmlu,138,True,1.237,
+BF16,mmlu,139,False,1.234,
+BF16,mmlu,140,True,1.587,
+BF16,mmlu,141,True,1.585,
+BF16,mmlu,142,False,1.585,
+BF16,mmlu,143,True,1.821,
+BF16,mmlu,144,True,1.82,
+BF16,mmlu,145,True,1.818,
+BF16,mmlu,146,True,1.585,
+BF16,mmlu,147,True,1.819,
+BF16,mmlu,148,True,1.818,
+BF16,mmlu,149,True,1.585,
+BF16,mmlu,150,True,1.585,
+BF16,mmlu,151,True,1.818,
+BF16,mmlu,152,True,1.818,
+BF16,mmlu,153,True,1.818,
+BF16,mmlu,154,True,1.816,
+BF16,mmlu,155,False,1.818,
+BF16,mmlu,156,True,1.57,
+BF16,mmlu,157,True,1.57,
+BF16,mmlu,158,True,1.502,
+BF16,mmlu,159,False,1.502,
+BF16,mmlu,160,True,1.502,
+BF16,mmlu,161,True,1.499,
+BF16,mmlu,162,False,1.5,
+BF16,mmlu,163,True,1.5,
+BF16,mmlu,164,True,1.512,
+BF16,mmlu,165,True,1.51,
+BF16,mmlu,166,True,1.51,
+BF16,mmlu,167,False,1.509,
+BF16,mmlu,168,True,1.51,
+BF16,mmlu,169,True,1.509,
+BF16,mmlu,170,True,1.643,
+BF16,mmlu,171,True,1.643,
+BF16,mmlu,172,True,1.643,
+BF16,mmlu,173,True,1.643,
+BF16,mmlu,174,True,1.64,
+BF16,mmlu,175,True,1.642,
+BF16,mmlu,176,True,1.642,
+BF16,mmlu,177,True,1.642,
+BF16,mmlu,178,True,1.642,
+BF16,mmlu,179,True,1.64,
+BF16,mmlu,180,True,1.836,
+BF16,mmlu,181,True,1.836,
+BF16,mmlu,182,True,1.997,
+BF16,mmlu,183,False,1.998,
+BF16,mmlu,184,True,1.996,
+BF16,mmlu,185,True,1.996,
+BF16,mmlu,186,True,1.996,
+BF16,mmlu,187,True,1.996,
+BF16,mmlu,188,True,1.902,
+BF16,mmlu,189,True,1.903,
+BF16,mmlu,190,True,1.902,
+BF16,mmlu,191,True,1.902,
+BF16,mmlu,192,True,1.9,
+BF16,mmlu,193,True,1.902,
+BF16,mmlu,194,False,1.559,
+BF16,mmlu,195,True,1.596,
+BF16,mmlu,196,True,1.558,
+BF16,mmlu,197,True,1.557,
+BF16,mmlu,198,True,1.556,
+BF16,mmlu,199,True,1.556,
+BF16,humaneval,0,True,8.555,
+BF16,humaneval,1,True,10.946,
+BF16,humaneval,2,True,5.088,
+BF16,humaneval,3,True,7.796,
+BF16,humaneval,4,True,8.13,
+BF16,humaneval,5,True,7.543,
+BF16,humaneval,6,True,11.177,
+BF16,humaneval,7,True,5.811,
+BF16,humaneval,8,True,8.089,
+BF16,humaneval,9,True,8.633,
+BF16,humaneval,10,True,15.164,
+BF16,humaneval,11,True,5.697,
+BF16,humaneval,12,True,5.965,
+BF16,humaneval,13,True,4.978,
+BF16,humaneval,14,True,3.946,
+BF16,humaneval,15,True,4.334,
+BF16,humaneval,16,True,3.924,
+BF16,humaneval,17,True,11.321,
+BF16,humaneval,18,True,7.446,
+BF16,humaneval,19,True,12.612,
+BF16,humaneval,20,True,15.163,
+BF16,humaneval,21,True,8.774,
+BF16,humaneval,22,True,5.53,
+BF16,humaneval,23,True,2.482,
+BF16,humaneval,24,True,4.12,
+BF16,humaneval,25,True,9.186,
+BF16,humaneval,26,True,5.422,
+BF16,humaneval,27,True,2.554,
+BF16,humaneval,28,True,3.289,
+BF16,humaneval,29,True,4.998,
+BF16,humaneval,30,True,6.55,
+BF16,humaneval,31,True,9.102,
+BF16,humaneval,32,True,42.062,
+BF16,humaneval,33,True,10.535,
+BF16,humaneval,34,True,4.032,
+BF16,humaneval,35,True,4.491,
+BF16,humaneval,36,True,6.423,
+BF16,humaneval,37,True,8.91,
+BF16,humaneval,38,True,12.627,
+BF16,humaneval,39,True,11.476,
+BF16,humaneval,40,True,11.145,
+BF16,humaneval,41,True,7.376,
+BF16,humaneval,42,True,5.993,
+BF16,humaneval,43,True,8.998,
+BF16,humaneval,44,True,7.118,
+BF16,humaneval,45,True,2.726,
+BF16,humaneval,46,False,14.787,
+BF16,humaneval,47,True,7.708,
+BF16,humaneval,48,True,4.03,
+BF16,humaneval,49,True,6.138,
+BF16,humaneval,50,True,6.099,
+BF16,humaneval,51,True,7.599,
+BF16,humaneval,52,True,4.73,
+BF16,humaneval,53,True,2.958,
+BF16,humaneval,54,True,7.33,
+BF16,humaneval,55,True,5.761,
+BF16,humaneval,56,True,7.121,
+BF16,humaneval,57,True,7.307,
+BF16,humaneval,58,True,6.693,
+BF16,humaneval,59,True,6.373,
+BF16,humaneval,60,True,5.8,
+BF16,humaneval,61,True,7.248,
+BF16,humaneval,62,True,6.77,
+BF16,humaneval,63,True,11.671,
+BF16,humaneval,64,True,8.817,
+BF16,humaneval,65,True,6.708,
+BF16,humaneval,66,True,6.487,
+BF16,humaneval,67,True,12.024,
+BF16,humaneval,68,True,20.145,
+BF16,humaneval,69,True,10.244,
+BF16,humaneval,70,True,8.26,
+BF16,humaneval,71,True,9.332,
+BF16,humaneval,72,True,11.487,
+BF16,humaneval,73,True,9.502,
+BF16,humaneval,74,True,3.163,
+BF16,humaneval,75,True,10.993,
+BF16,humaneval,76,True,16.213,
+BF16,humaneval,77,True,8.476,
+BF16,humaneval,78,True,16.514,
+BF16,humaneval,79,True,8.557,
+BF16,humaneval,80,True,7.794,
+BF16,humaneval,81,True,23.148,
+BF16,humaneval,82,True,6.24,
+BF16,humaneval,83,True,11.834,
+BF16,humaneval,84,False,9.139,
+BF16,humaneval,85,True,4.109,
+BF16,humaneval,86,True,8.787,
+BF16,humaneval,87,True,15.494,
+BF16,humaneval,88,True,13.746,
+BF16,humaneval,89,True,8.975,
+BF16,humaneval,90,True,7.818,
+BF16,humaneval,91,True,7.689,
+BF16,humaneval,92,True,8.39,
+BF16,humaneval,93,False,18.366,
+BF16,humaneval,94,True,6.701,
+BF16,humaneval,95,True,12.982,
+BF16,humaneval,96,True,13.51,
+BF16,humaneval,97,True,6.275,
+BF16,humaneval,98,True,5.646,
+BF16,humaneval,99,True,9.748,
+BF16,humaneval,100,True,8.895,
+BF16,humaneval,101,False,6.275,
+BF16,humaneval,102,True,7.459,
+BF16,humaneval,103,True,9.877,
+BF16,humaneval,104,True,9.07,
+BF16,humaneval,105,True,7.852,
+BF16,humaneval,106,True,11.061,
+BF16,humaneval,107,True,14.012,
+BF16,humaneval,108,False,10.421,
+BF16,humaneval,109,True,19.287,
+BF16,humaneval,110,True,12.905,
+BF16,humaneval,111,True,11.326,
+BF16,humaneval,112,True,2.361,
+BF16,humaneval,113,True,11.702,
+BF16,humaneval,114,True,8.056,
+BF16,humaneval,115,False,17.577,
+BF16,humaneval,116,False,53.171,
+BF16,humaneval,117,True,5.019,
+BF16,humaneval,118,True,11.881,
+BF16,humaneval,119,True,12.583,
+BF16,humaneval,120,True,12.541,
+BF16,humaneval,121,True,6.079,
+BF16,humaneval,122,True,10.585,
+BF16,humaneval,123,True,14.208,
+BF16,humaneval,124,True,23.528,
+BF16,humaneval,125,True,4.343,
+BF16,humaneval,126,True,16.359,
+BF16,humaneval,127,False,7.594,
+BF16,humaneval,128,True,9.199,
+BF16,humaneval,129,False,52.163,
+BF16,humaneval,130,True,47.071,
+BF16,humaneval,131,True,6.196,
+BF16,humaneval,132,False,9.739,
+BF16,humaneval,133,True,8.212,
+BF16,humaneval,134,True,17.482,
+BF16,humaneval,135,True,6.944,
+BF16,humaneval,136,True,3.593,
+BF16,humaneval,137,True,10.133,
+BF16,humaneval,138,True,4.617,
+BF16,humaneval,139,True,8.338,
+BF16,humaneval,140,False,7.992,
+BF16,humaneval,141,True,16.956,
+BF16,humaneval,142,True,10.9,
+BF16,humaneval,143,True,6.171,
+BF16,humaneval,144,True,9.684,
+BF16,humaneval,145,False,7.692,
+BF16,humaneval,146,True,4.163,
+BF16,humaneval,147,False,49.216,
+BF16,humaneval,148,True,5.95,
+BF16,humaneval,149,True,10.549,
+BF16,humaneval,150,True,8.497,
+BF16,humaneval,151,True,8.436,
+BF16,humaneval,152,True,11.505,
+BF16,humaneval,153,True,15.968,
+BF16,humaneval,154,True,8.121,
+BF16,humaneval,155,True,6.105,
+BF16,humaneval,156,True,12.265,
+BF16,humaneval,157,True,6.844,
+BF16,humaneval,158,True,7.193,
+BF16,humaneval,159,True,14.511,
+BF16,humaneval,160,True,11.627,
+BF16,humaneval,161,True,6.931,
+BF16,humaneval,162,True,5.18,
+BF16,humaneval,163,True,7.317,
+BF16,json,0,True,13.422,
+BF16,json,1,True,13.503,
+BF16,json,2,True,13.666,
+BF16,json,3,True,8.51,
+BF16,json,4,True,9.715,
+BF16,json,5,True,9.761,
+BF16,json,6,True,9.947,
+BF16,json,7,True,9.853,
+BF16,json,8,True,9.899,
+BF16,json,9,True,13.949,
+BF16,json,10,True,13.909,
+BF16,json,11,True,13.87,
+BF16,json,12,True,11.792,
+BF16,json,13,True,9.97,
+BF16,json,14,True,11.833,
+BF16,json,15,True,11.791,
+BF16,json,16,True,13.066,
+BF16,json,17,True,13.065,
+BF16,json,18,True,11.832,
+BF16,json,19,True,13.682,
+BF16,json,20,True,13.187,
+BF16,json,21,True,11.79,
+BF16,json,22,True,9.968,
+BF16,json,23,True,11.79,

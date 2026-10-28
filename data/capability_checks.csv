@@ -1,0 +1,4 @@
+model,gsm8k_acc,mmlu_acc,humaneval_acc,json_acc,gsm8k_n,mmlu_n,humaneval_n,json_n,pt_score
+27b_abliterated_awq,0.9533,0.8,0.9451,1.0,150,200,164,24,8.95
+Qwen3.5-9B_base,0.98,0.75,0.878,1.0,150,200,164,24,8.7
+Huihui-Qwen3.5-9B_abliterated,0.92,0.725,0.8354,1.0,150,200,164,24,8.25

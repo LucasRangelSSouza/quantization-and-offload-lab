@@ -1,0 +1,17 @@
+precision,benchmark,correct,n,accuracy,wilson_low,wilson_high
+AWQ 4-bit,gsm8k,142,150,0.9467,0.8983,0.9727
+AWQ 4-bit,mmlu,160,200,0.8,0.7391,0.8495
+AWQ 4-bit,humaneval,153,164,0.9329,0.8839,0.9621
+AWQ 4-bit,json,24,24,1.0,0.862,1.0
+NVFP4,gsm8k,144,150,0.96,0.9155,0.9815
+NVFP4,mmlu,164,200,0.82,0.7609,0.8671
+NVFP4,humaneval,152,164,0.9268,0.8765,0.9577
+NVFP4,json,24,24,1.0,0.862,1.0
+FP8 (online from BF16),gsm8k,144,150,0.96,0.9155,0.9815
+FP8 (online from BF16),mmlu,163,200,0.815,0.7554,0.8627
+FP8 (online from BF16),humaneval,150,164,0.9146,0.8618,0.9485
+FP8 (online from BF16),json,24,24,1.0,0.862,1.0
+BF16,gsm8k,143,150,0.9533,0.9068,0.9772
+BF16,mmlu,164,200,0.82,0.7609,0.8671
+BF16,humaneval,151,164,0.9207,0.8691,0.9531
+BF16,json,24,24,1.0,0.862,1.0
